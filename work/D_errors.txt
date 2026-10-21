@@ -1,0 +1,2 @@
+rg: D:\AI-Girl\models\tts-models\vits-melo-tts-zh_en: 拒绝访问。 (os error 5)
+rg: D:\System Volume Information: 拒绝访问。 (os error 5)

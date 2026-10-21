@@ -1,0 +1,259 @@
+E:\quyudianji.01\src\main.tsx
+D:\family_assistant_app\test\widget_test.dart
+E:\quyudianji.01\src\components\MonitorPanel.tsx
+E:\quyudianji.01\src\components\FloatingBall.tsx
+E:\yijianfuzhi\talent-analysis-app\miniprogram\pages\index\index.wxml
+E:\quyudianji.01\src\App.tsx
+E:\yijianfuzhi\talent-analysis-app\miniprogram\pages\import\import.wxml
+D:\family_assistant_app\lib\widgets\voice_input_sheet.dart
+E:\yijianfuzhi\talent-analysis-app\miniprogram\pages\history\history.wxml
+D:\family_assistant_app\lib\theme\app_theme.dart
+E:\yijianfuzhi\talent-analysis-app\miniprogram\pages\compare\compare.wxml
+D:\family_assistant_app\.dart_tool\flutter_build\dart_plugin_registrant.dart
+E:\yijianfuzhi\talent-analysis-app\miniprogram\pages\analysis\analysis.wxml
+E:\weixinkaifazhegongju\miniprogram\pages\info\info.wxml
+D:\最新项目-语音AI\fa_build\test\widget_test.dart
+E:\weixinkaifazhegongju\miniprogram\pages\index\index.wxml
+E:\yijianfuzhi\miniprogram\pages\voice-task\voice-task.wxml
+E:\yijianfuzhi\miniprogram\pages\test\test.wxml
+D:\最新项目-语音AI\fa_build\lib\theme\app_theme.dart
+E:\yijianfuzhi\miniprogram\pages\salary\salary.wxml
+D:\family_assistant_app\lib\main.dart
+E:\yijianfuzhi\miniprogram\pages\others\others.wxml
+E:\yijianfuzhi\miniprogram\pages\lottery\lottery.wxml
+E:\yijianfuzhi\miniprogram\pages\index\index.wxml
+E:\weixinkaifazhegongju\miniprogram\components\history-list\index.wxml
+E:\yijianfuzhi\miniprogram\pages\import\import.wxml
+E:\weixinkaifazhegongju\miniprogram\components\birthday-card\index.wxml
+E:\yijianfuzhi\miniprogram\pages\idcard\idcard.wxml
+E:\yijianfuzhi\miniprogram\pages\creditcard\recommendations\recommendations.wxml
+E:\yijianfuzhi\miniprogram\pages\creditcard\index\index.wxml
+E:\yijianfuzhi\miniprogram\pages\creditcard\cards\cards.wxml
+D:\最新项目-语音AI\fa_build\.dart_tool\flutter_build\dart_plugin_registrant.dart
+E:\yijianfuzhi\miniprogram\pages\creditcard\add-card\add-card.wxml
+E:\Chat GPT6\主动保存\GPT_Work_Router_v1.1\README_使用说明.txt
+E:\quyudianji.01\android\app\src\main\java\com\screenmonitor\QuickControlsActivity.java
+E:\quyudianji.01\android\app\src\main\java\com\screenmonitor\MonitorService.java
+E:\quyudianji.01\android\app\src\main\java\com\screenmonitor\MainActivity.java
+E:\quyudianji.01\android\app\src\main\java\com\screenmonitor\FloatingBubbleService.java
+E:\quyudianji.01\android\app\src\main\assets\readme.txt
+E:\Chat GPT6\主动保存\GPT_Work_Router_v1.0\GPT_Work_Router_v1.0\README_使用说明.txt
+E:\Chat GPT6\主动保存\20260919_0157_数字保险箱\README.txt
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\utils\ScreenCaptureHelper.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\utils\LogManager.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\utils\ImageRecognition.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\utils\ConfigManager.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\SettingsActivity.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\service\FloatWindowService.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\service\AutoAccessService.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\MainActivity.java
+C:\Users\Administrator\.trae-cn\memory\ShortCutAutoPlay\app\src\main\java\com\shortcut\autoplay\AboutActivity.java
+D:\最新项目-语音AI\family_assistant_app\test\widget_test.dart
+D:\最新项目-语音AI\fa_build\lib\main.dart
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Register.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Receive.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Publish.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Profile.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\PointCenter.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\MyReceive.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\MyPublish.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Login.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\pages\Home.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\main.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\components\Header.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\components\Card.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\components\BottomNav.jsx
+E:\a_a_A_lot_of_AI_computer\A41社区互助\src\App.jsx
+E:\Chat GPT6\OPC_V2_REAL_TEST\OPC测试计算器\Calculator.cs
+D:\最新项目-语音AI\family_assistant_app\.dart_tool\flutter_build\dart_plugin_registrant.dart
+E:\Chat GPT6\EQChat\tools\gradle-8.9\init.d\readme.txt
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\StatsStore.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\Secrets.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\MainActivity.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\LocalReplies.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\HistoryStore.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\HistoryActivity.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\ChatService.java
+E:\Chat GPT6\EQChat\app\src\main\java\cn\eqchat\Ai.java
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\WebCdpRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\VisualFallback.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\UpdateManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\UIAutomationEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\TaskPlan.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\SkillManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\ScreenPushService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\ProjectDetector.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\Program.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\PlannerEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\PatchEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\MemoryExtractor.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\MemoryCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\MainForm.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\GradleBuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\GPTDesktopAgent.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\ExeRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\DoubaoWebAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\DeveloperModePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\DesktopInteractionService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\ControlPicker.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\CodeWorkspace.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\BuildErrorParser.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\BuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AutoTester.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AssistantPanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AiBridgeReliability.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AiBridgePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AiBridgeEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AiBridgeCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AiBridgeAdapters.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_DEV_141\src\AdbAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\WebCdpRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\VisualFallback.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\UpdateManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\UIAutomationEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\TaskPlan.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\SkillManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\ScreenPushService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\ProjectDetector.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\Program.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\PlannerEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\PatchEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\MemoryExtractor.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\MemoryCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\MainForm.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\GradleBuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\GPTDesktopAgent.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\ExeRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\DoubaoWebAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\DeveloperModePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\DesktopInteractionService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\ControlPicker.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\CodeWorkspace.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\BuildErrorParser.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\BuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AutoTester.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AssistantPanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AiBridgeReliability.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AiBridgePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AiBridgeEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AiBridgeCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AiBridgeAdapters.cs
+E:\Chat GPT6\Chat GPT6OPC_V2_BASELINE_123_141\src\AdbAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\WebCdpRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\VisualFallback.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\UpdateManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\UIAutomationEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\TaskPlan.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\SkillManager.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\ScreenPushService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\ProjectDetector.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\Program.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\PlannerEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\PatchEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\MemoryExtractor.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\MemoryCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\MainForm.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\GradleBuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\GPTDesktopAgent.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\ExeRunner.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\DoubaoWebAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\DeveloperModePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\DesktopInteractionService.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\ControlPicker.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\CodeWorkspace.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\BuildErrorParser.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\BuildAdapter.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AutoTester.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AssistantPanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AiBridgeReliability.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AiBridgePanel.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AiBridgeEngine.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AiBridgeCore.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AiBridgeAdapters.cs
+E:\Chat GPT6\Chat GPT6OPC_V2\src\AdbAdapter.cs
+E:\Chat GPT6\AURORA_AI_ASSISTANT_V1\src\AURORA.Core\CharacterState.cs
+E:\Chat GPT6\AURORA_AI_ASSISTANT_V1\src\AURORA.Core\AppConfig.cs
+E:\Chat GPT6\AURORA_AI_ASSISTANT_V1\src\AURORA.App\Program.cs
+E:\Chat GPT6\AURORA_AI_ASSISTANT_V1\src\AURORA.App\MainWindow.cs
+E:\Chat GPT6\AI_Live_Assistant_V01\XiaoXingCore.cs
+E:\Chat GPT6\AI_Live_Assistant_V01\SpeechController.cs
+E:\Chat GPT6\AI_Live_Assistant_V01\README_PROJECT.txt
+E:\Chat GPT6\AI_Live_Assistant_V01\LiveAssistant.cs
+D:\family_assistant_app\lib\services\voice_service.dart
+D:\family_assistant_app\lib\services\notification_service.dart
+D:\family_assistant_app\lib\services\doubao_service.dart
+D:\family_assistant_app\lib\services\database_service.dart
+D:\family_assistant_app\lib\services\cloud_sync_service.dart
+D:\family_assistant_app\lib\pages\schedule_page.dart
+D:\family_assistant_app\lib\pages\medication_page.dart
+D:\family_assistant_app\lib\pages\home_page.dart
+D:\family_assistant_app\lib\pages\finance_page.dart
+D:\family_assistant_app\lib\pages\family_page.dart
+E:\a_a_A_lot_of_AI_computer\A24测试\TRAE\src\main.jsx
+E:\a_a_A_lot_of_AI_computer\A24测试\TRAE\src\auth\Register.jsx
+E:\a_a_A_lot_of_AI_computer\A24测试\TRAE\src\auth\Login.jsx
+E:\a_a_A_lot_of_AI_computer\A24测试\TRAE\src\App.jsx
+E:\a_a_A_lot_of_AI_computer\A24测试\1\project_20251002_104723\src\com\example\project_20251002_104723\Main.java
+E:\a_a_A_lot_of_AI_computer\A24测试\1\project_20251002_104138\src\com\example\project_20251002_104138\Main.java
+D:\最新项目-语音AI\family_assistant_app\lib\models\schedule.dart
+D:\最新项目-语音AI\family_assistant_app\lib\models\medication.dart
+D:\最新项目-语音AI\family_assistant_app\lib\models\finance_record.dart
+D:\最新项目-语音AI\family_assistant_app\lib\models\family_member.dart
+D:\最新项目-语音AI\family_assistant_app\lib\main.dart
+D:\最新项目-语音AI\family_assistant_app\lib\theme\app_theme.dart
+D:\最新项目-语音AI\family_assistant_app\lib\services\doubao_service.dart
+D:\最新项目-语音AI\family_assistant_app\lib\services\database_service.dart
+D:\最新项目-语音AI\fa_build\lib\services\doubao_service.dart
+D:\最新项目-语音AI\fa_build\lib\services\database_service.dart
+D:\最新项目-语音AI\family_assistant_app\lib\pages\schedule_page.dart
+D:\最新项目-语音AI\family_assistant_app\lib\pages\medication_page.dart
+D:\最新项目-语音AI\family_assistant_app\lib\pages\home_page.dart
+D:\最新项目-语音AI\family_assistant_app\lib\pages\finance_page.dart
+D:\PhoneGuard\gradle\gradle-8.4\init.d\readme.txt
+D:\最新项目-语音AI\fa_build\lib\pages\schedule_page.dart
+D:\最新项目-语音AI\fa_build\lib\pages\medication_page.dart
+D:\最新项目-语音AI\fa_build\lib\pages\home_page.dart
+D:\最新项目-语音AI\fa_build\lib\pages\finance_page.dart
+D:\family_assistant_app\lib\models\schedule.dart
+D:\family_assistant_app\lib\models\medication.dart
+D:\family_assistant_app\lib\models\finance_record.dart
+D:\family_assistant_app\lib\models\family_member.dart
+E:\a_a_A_lot_of_AI_computer\a17\a16\credit-card-manager-frontend-updated\.dart_tool\flutter_build\dart_plugin_registrant.dart
+E:\a_a_A_lot_of_AI_computer\a17\a16\credit-card-manager-frontend-updated\.dart_tool\dartpad\web_plugin_registrant.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\.dart_tool\flutter_build\dart_plugin_registrant.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\.dart_tool\dartpad\web_plugin_registrant.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\test\widget_test.dart
+E:\a_a_A_lot_of_AI_computer\A50\智能信用卡管理小程序完整文件\credit-card-miniprogram\pages\recommendations\recommendations.wxml
+E:\a_a_A_lot_of_AI_computer\A50\智能信用卡管理小程序完整文件\credit-card-miniprogram\pages\index\index.wxml
+E:\a_a_A_lot_of_AI_computer\A50\智能信用卡管理小程序完整文件\credit-card-miniprogram\pages\cards\cards.wxml
+E:\a_a_A_lot_of_AI_computer\A50\智能信用卡管理小程序完整文件\credit-card-miniprogram\pages\add-card\add-card.wxml
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\pages\Statistics\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\pages\ClientList\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\pages\ClientEdit\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\pages\ClientDetail\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\main.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\components\Layout\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\components\ClientForm\BasicInfoForm.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\components\ClientCard\index.tsx
+E:\a_a_A_lot_of_AI_computer\A48客户管理\src\App.tsx
+E:\a_a_A_lot_of_AI_computer\A45\credit_card_system\web\project-doc-search\stable-desktop-app\src\renderer\main.tsx
+E:\a_a_A_lot_of_AI_computer\A45\credit_card_system\web\project-doc-search\stable-desktop-app\src\renderer\App.tsx
+E:\a_a_A_lot_of_AI_computer\A45\credit_card_system\web\project-doc-search\src\main.jsx
+E:\a_a_A_lot_of_AI_computer\A45\credit_card_system\web\project-doc-search\src\App.jsx
+E:\a_a_A_lot_of_AI_computer\A42\frontend\src\main.jsx
+E:\a_a_A_lot_of_AI_computer\A42\frontend\src\components\Auth.jsx
+E:\a_a_A_lot_of_AI_computer\A42\frontend\src\App.jsx
+D:\最新项目-语音AI\fa_build\lib\models\schedule.dart
+D:\最新项目-语音AI\fa_build\lib\models\medication.dart
+D:\最新项目-语音AI\fa_build\lib\models\finance_record.dart
+D:\最新项目-语音AI\fa_build\lib\models\family_member.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\main.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\providers\transaction_provider.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\providers\auth_provider.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\utils\map_config.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\utils\constants.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\models\transaction.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\routes\app_routes.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\screens\transaction_map_screen.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\screens\dashboard_screen.dart
+E:\a_a_A_lot_of_AI_computer\a16\credit-card-manager-frontend-updated\lib\screens\login_screen.dart

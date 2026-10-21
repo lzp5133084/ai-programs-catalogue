@@ -1,0 +1,62 @@
+--- E:\search_programs.py
++++ C:\Users\Administrator\Documents\Codex\2026-10-15\new-chat\outputs\修复与备份\04_search_programs\search_programs.py
+@@ -1,5 +1,8 @@
+ import os
+-import chardet
++try:
++    import chardet
++except ImportError:
++    chardet = None
+ import re
+ from typing import List, Dict, Tuple
+ 
+@@ -8,8 +11,20 @@
+     try:
+         with open(file_path, 'rb') as file:
+             raw = file.read()
+-            result = chardet.detect(raw)
+-            return result['encoding'] or 'utf-8'
++            if raw.startswith((b'\xff\xfe', b'\xfe\xff')):
++                return 'utf-16'
++            if raw.startswith(b'\xef\xbb\xbf'):
++                return 'utf-8-sig'
++            try:
++                raw.decode('utf-8')
++                return 'utf-8'
++            except UnicodeDecodeError:
++                pass
++            if chardet is not None:
++                result = chardet.detect(raw)
++                if result.get('encoding') and result.get('confidence', 0) >= 0.8:
++                    return result['encoding']
++            return 'gb18030'
+     except Exception as e:
+         print(f"检测编码出错 {file_path}: {str(e)}")
+         return 'utf-8'
+@@ -81,6 +96,8 @@
+         search_dirs = ["C:\\", "D:\\", "E:\\", os.path.expanduser("~")]
+     
+     results = []
++    seen_files = set()
++    skip_dirs = {'node_modules', 'site-packages', '.venv', 'venv', '__pycache__', '.git', '.pnpm-store'}
+     
+     for search_dir in search_dirs:
+         print(f"\n正在搜索目录: {search_dir}")
+@@ -88,10 +105,15 @@
+             print(f"目录不存在: {search_dir}")
+             continue
+             
+-        for root, _, files in os.walk(search_dir):
++        for root, directories, files in os.walk(search_dir, followlinks=False):
++            directories[:] = sorted(d for d in directories if d.lower() not in skip_dirs)
+             for file in files:
+-                if file.endswith('.py'):
++                if file.lower().endswith(('.py', '.pyw')):
+                     file_path = os.path.join(root, file)
++                    canonical = os.path.normcase(os.path.realpath(file_path))
++                    if canonical in seen_files:
++                        continue
++                    seen_files.add(canonical)
+                     print(f"\n发现Python文件: {file_path}")
+                     try:
+                         file_info = analyze_py_file(file_path)

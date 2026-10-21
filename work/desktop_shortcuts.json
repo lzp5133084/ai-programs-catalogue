@@ -1,0 +1,237 @@
+[
+  {
+    "Name": "《美女邻居》全集.txt",
+    "Target": "C:\\Users\\Administrator\\Documents\\Desktop_Text\\《美女邻居》全集.txt",
+    "WorkingDirectory": "C:\\Users\\Administrator\\Documents\\Desktop_Text"
+  },
+  {
+    "Name": "360AI浏览器",
+    "Target": "D:\\360AI浏览器\\360aibrowser\\Application\\360aibrowser.exe",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "百度网盘",
+    "Target": "D:\\百度网盘\\BaiduNetdisk\\BaiduNetdisk.exe",
+    "WorkingDirectory": "D:\\百度网盘\\BaiduNetdisk"
+  },
+  {
+    "Name": "本地全模态AI工作台",
+    "Target": "C:\\Windows\\System32\\wscript.exe",
+    "WorkingDirectory": "d:\\linshicaozuo\\AI全模态工作台"
+  },
+  {
+    "Name": "抖音",
+    "Target": "C:\\Program Files (x86)\\ByteDance\\douyin\\douyin.exe",
+    "WorkingDirectory": "C:\\Program Files (x86)\\ByteDance\\douyin"
+  },
+  {
+    "Name": "豆包",
+    "Target": "E:\\豆包\\Doubao\\Doubao.exe",
+    "WorkingDirectory": "E:\\豆包\\Doubao"
+  },
+  {
+    "Name": "分身旁观-语料系统.exe - 快捷方式",
+    "Target": "D:\\分身旁观-语料系统\\dist\\分身旁观-语料系统\\分身旁观-语料系统.exe",
+    "WorkingDirectory": "D:\\分身旁观-语料系统\\dist\\分身旁观-语料系统"
+  },
+  {
+    "Name": "鸽子AI",
+    "Target": "",
+    "WorkingDirectory": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\open-llm-vtuber"
+  },
+  {
+    "Name": "工伤赔偿计算小助手",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "滚屏截图",
+    "Target": "D:\\weixinshuju\\xwechat_files\\wxid_bag8jqvw1c8i22_c6ca\\msg\\file\\2025-05\\滚屏截图程序.exe",
+    "WorkingDirectory": "D:\\weixinshuju\\xwechat_files\\wxid_bag8jqvw1c8i22_c6ca\\msg\\file\\2025-05"
+  },
+  {
+    "Name": "好助手 e客保",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "核显测试脚本",
+    "Target": "C:\\Program Files\\常用工具集合\\工具箱\\__核显测试脚本.bat",
+    "WorkingDirectory": "C:\\Program Files\\常用工具集合\\工具箱"
+  },
+  {
+    "Name": "剪映专业版",
+    "Target": "D:\\剪映\\JianyingPro\\JianyingPro.exe",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "扣子",
+    "Target": "D:\\扣子\\Coze\\Coze.exe",
+    "WorkingDirectory": "D:\\扣子\\Coze"
+  },
+  {
+    "Name": "酷狗音乐",
+    "Target": "D:\\KGMusic\\KuGou.exe",
+    "WorkingDirectory": "D:\\KGMusic"
+  },
+  {
+    "Name": "鲁大师",
+    "Target": "C:\\Program Files\\常用工具集合\\鲁大师.exe",
+    "WorkingDirectory": "C:\\Program Files\\常用工具集合"
+  },
+  {
+    "Name": "千问",
+    "Target": "D:\\QianwenApp\\qianwen.exe",
+    "WorkingDirectory": "D:\\QianwenApp"
+  },
+  {
+    "Name": "王榕桌宠.exe - 快捷方式",
+    "Target": "C:\\Users\\Administrator\\Doubao\\chats\\2026-09-21\\new-chat\\dist\\王榕桌宠.exe",
+    "WorkingDirectory": "C:\\Users\\Administrator\\Doubao\\chats\\2026-09-21\\new-chat\\dist"
+  },
+  {
+    "Name": "微信开发者工具",
+    "Target": "C:\\Program Files (x86)\\Tencent\\微信web开发者工具\\微信开发者工具.exe",
+    "WorkingDirectory": "C:\\Program Files (x86)\\Tencent\\微信web开发者工具\\code\\package.nw\\node_modules\\glass-easel-template-compiler"
+  },
+  {
+    "Name": "微信游戏",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "显示器亮度调节",
+    "Target": "C:\\Program Files\\常用工具集合\\显示器亮度调节\\显示器亮度调节.exe",
+    "WorkingDirectory": "C:\\Program Files\\常用工具集合\\显示器亮度调节"
+  },
+  {
+    "Name": "鍚姩AI缃戝叧",
+    "Target": "D:\\2026-9-14 071330\\鍚姩AI缃戝叧.bat",
+    "WorkingDirectory": "d:\\2026-9-14 071330"
+  },
+  {
+    "Name": "耶斯去水印",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "御龙主宰",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "足球悬浮记事本",
+    "Target": "E:\\000001\\dist\\足球悬浮记事本.exe",
+    "WorkingDirectory": "E:\\000001\\dist"
+  },
+  {
+    "Name": "AI女助理小羽",
+    "Target": "D:\\AI-Girl\\启动AI女助理.bat",
+    "WorkingDirectory": "D:\\AI-Girl"
+  },
+  {
+    "Name": "AI全模态总控台",
+    "Target": "D:\\ai-tools\\Python312\\pythonw.exe",
+    "WorkingDirectory": "d:\\2026-9-14 071330"
+  },
+  {
+    "Name": "AI全行业赋能的时代到来！欢迎来到【虚拟家园YY：6164250】成为…",
+    "Target": "",
+    "WorkingDirectory": ""
+  },
+  {
+    "Name": "Clash Verge",
+    "Target": "D:\\Clash Verge\\clash-verge.exe",
+    "WorkingDirectory": "D:\\Clash Verge"
+  },
+  {
+    "Name": "Doubao",
+    "Target": "D:\\豆包\\Doubao\\app\\Doubao.exe",
+    "WorkingDirectory": "D:\\豆包\\Doubao\\app"
+  },
+  {
+    "Name": "EV录屏",
+    "Target": "D:\\Program Files\\EVCapture\\EVCapture.exe",
+    "WorkingDirectory": "D:\\Program Files\\EVCapture"
+  },
+  {
+    "Name": "Everything",
+    "Target": "D:\\Program Files\\Everything\\Everything.exe",
+    "WorkingDirectory": "D:\\Program Files\\Everything"
+  },
+  {
+    "Name": "MicLink",
+    "Target": "D:\\智能鼠标\\新建文件夹\\新建文件夹\\MicLink\\MicLink.exe",
+    "WorkingDirectory": "D:\\智能鼠标\\新建文件夹\\新建文件夹\\MicLink"
+  },
+  {
+    "Name": "Microsoft Edge",
+    "Target": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "WorkingDirectory": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+  },
+  {
+    "Name": "Ollama",
+    "Target": "",
+    "WorkingDirectory": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Ollama"
+  },
+  {
+    "Name": "OPC Local Executor",
+    "Target": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "WorkingDirectory": "E:\\Chat GPT6\\OPC_Local_Executor"
+  },
+  {
+    "Name": "OPC V2",
+    "Target": "E:\\Chat GPT6\\OPC_V2\\OPC.exe",
+    "WorkingDirectory": "E:\\Chat GPT6\\OPC_V2"
+  },
+  {
+    "Name": "open-llm-vtuber-electron",
+    "Target": "",
+    "WorkingDirectory": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\open-llm-vtuber"
+  },
+  {
+    "Name": "open-llm-vtuber-setup.exe - 快捷方式",
+    "Target": "D:\\AI-Girl\\downloads\\open-llm-vtuber-setup.exe",
+    "WorkingDirectory": "D:\\AI-Girl\\downloads"
+  },
+  {
+    "Name": "QQ浏览器",
+    "Target": "D:\\Program Files\\Tencent\\QQBrowser\\QQBrowser.exe",
+    "WorkingDirectory": "D:\\Program Files\\Tencent\\QQBrowser"
+  },
+  {
+    "Name": "Snipaste - 快捷方式",
+    "Target": "D:\\Snipaste-2.10.5-x64\\Snipaste.exe",
+    "WorkingDirectory": "D:\\Snipaste-2.10.5-x64"
+  },
+  {
+    "Name": "ToDesk.exe - 快捷方式",
+    "Target": "D:\\Program Files\\todesk\\ToDesk.exe",
+    "WorkingDirectory": "D:\\Program Files\\todesk"
+  },
+  {
+    "Name": "Trae CN",
+    "Target": "D:\\Trae CN\\Trae CN.exe",
+    "WorkingDirectory": "D:\\Trae CN"
+  },
+  {
+    "Name": "TRAE Work CN",
+    "Target": "D:\\TRAE SOLO CN\\TRAE SOLO CN.exe",
+    "WorkingDirectory": "D:\\TRAE SOLO CN"
+  },
+  {
+    "Name": "WeChatDataAnalysis",
+    "Target": "D:\\微信备份\\WeChatDataAnalysis\\WeChatDataAnalysis.exe",
+    "WorkingDirectory": "D:\\微信备份\\WeChatDataAnalysis"
+  },
+  {
+    "Name": "WPS Office",
+    "Target": "D:\\Users\\Administrator\\AppData\\Local\\Kingsoft\\WPS Office\\ksolaunch.exe",
+    "WorkingDirectory": "D:\\Users\\Administrator\\AppData\\Local\\Kingsoft\\WPS Office\\"
+  },
+  {
+    "Name": "YY语音",
+    "Target": "D:\\Program Files (x86)\\duowan\\yy\\YY.exe",
+    "WorkingDirectory": "C:\\Users\\Administrator\\AppData\\Roaming\\duowan\\yy\\"
+  }
+]

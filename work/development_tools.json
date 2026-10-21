@@ -1,0 +1,92 @@
+[
+  {
+    "DisplayName": "Android Studio",
+    "DisplayVersion": "2026.1",
+    "InstallLocation": null
+  },
+  {
+    "DisplayName": "Git",
+    "DisplayVersion": "2.55.0.3",
+    "InstallLocation": "D:\\Program Files\\Git\\"
+  },
+  {
+    "DisplayName": "Miniconda3 py313_25.5.1-0 (Python 3.13.5 64-bit)",
+    "DisplayVersion": "py313_25.5.1-0",
+    "InstallLocation": null
+  },
+  {
+    "DisplayName": "Python 3.12.10 Executables (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Test Suite (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Documentation (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Add to Path (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Node.js",
+    "DisplayVersion": "24.18.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Microsoft Visual Studio Installer",
+    "DisplayVersion": "3.14.2075.50697",
+    "InstallLocation": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Tcl/Tk Support (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Core Interpreter (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 pip Bootstrap (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Standard Library (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python 3.12.10 Development Libraries (64-bit)",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Visual Studio 生成工具 2022",
+    "DisplayVersion": "17.14.7",
+    "InstallLocation": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools"
+  },
+  {
+    "DisplayName": "Microsoft Visual Studio Setup WMI Provider",
+    "DisplayVersion": "3.12.2140.44225",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Python Launcher",
+    "DisplayVersion": "3.12.10150.0",
+    "InstallLocation": ""
+  },
+  {
+    "DisplayName": "Microsoft Visual Studio Setup Configuration",
+    "DisplayVersion": "3.12.2140.44225",
+    "InstallLocation": ""
+  }
+]

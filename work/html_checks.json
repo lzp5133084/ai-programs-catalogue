@@ -1,0 +1,4924 @@
+[
+  {
+    "path": "C:\\Temp\\app_extract\\out\\renderer\\index.html",
+    "sha256": "c9feeaeaf424b62975bec622748337d3b9d0957120683978bc12a357417e777f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\关于宗亲会.html",
+    "sha256": "5d106ce96df9e99765c958635c50e36af040773664006d88065ca3950aabd01d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\宗亲档案.html",
+    "sha256": "cd4f3c8c5ded5367357c4bd639de617964d47414251f53a2a3fba5a4ef4307c7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\宗亲源流.html",
+    "sha256": "26b6d265c9f48b9f412bf38cfbc60fc594a00bed3a89f348686fff7876a40e8f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\家族影像.html",
+    "sha256": "265e2b87dfc26b57e8398ef759d0f98a8d3ec77bb4d947cc9ac36f44ca965ff8",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\寻根寻亲.html",
+    "sha256": "b301bbebbaea3aa3885f3275986b65dbd938633976b29f629f9f37a2214e42ef",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\电子族谱.html",
+    "sha256": "f01196840708122465b003286864f9484434b3ba6abc5a9599fa65189d957664",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.trae-cn\\attachments\\6a4d215a6308a14c0bb4fadb\\design_files\\pages\\首页.html",
+    "sha256": "7ad4641f54bcef76ba75f922dab3beab14961d7671cb14a895c4ea53004a9513",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\1.HTML",
+    "sha256": "40a33c720dc674e7ba1466bfc137f301592c77aa23166e1bf99bee9e3dcdce95",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\2027.html",
+    "sha256": "72d651702dec02e46ba919e69f7a43792395d6646644787bbd9176a411bec616",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\deepseek_html_20260902_fa1e10.html",
+    "sha256": "a1e594a7421dffea504ca279155d4ce032f96b96a66f9d95ad72004e37731524",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\deepseek测算近期运势指南.html",
+    "sha256": "7735038e56198b6e94dd144e31996ef53545a0e5d59efc7b1b5df1839e73c635",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\任军学1.html",
+    "sha256": "3a787ea9b0f893f4350bb08d063f808418ed1b9cff5ebd7ad6f8a8e343e11218",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\新建文本文档 (5).html",
+    "sha256": "ef3e635e28410cec689ecfbcd5ef6088774bc30af413412ee329f7c7dcfea861",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Desktop\\新建文本文档.HTML",
+    "sha256": "f3d4a6645322cd0b02d528dcc417dc3760b1e6b18733b1827e939597c3c87736",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [
+      "Unexpected token ')'"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-17\\luzhou-personnel-center\\dist\\index.html",
+    "sha256": "ecb149048acbe56a3fad5ef4625499d147d6de3ad2ee08435bbcec55ed7fe6da",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-17\\referenced-chatgpt-conversation-this-is-an\\outputs\\社区共享站-直接打开.html",
+    "sha256": "050d4a194c8cbf7f130ff8ab9c8861a8d69bad9dcd344d288f355eea3a6b164e",
+    "inline_scripts": 3,
+    "checked": 3,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-17\\referenced-chatgpt-conversation-this-is-an\\outputs\\社区共享站\\index.html",
+    "sha256": "0b74f4bfe1ee8c923386c774a6db5d74963108368f4b40b1eac70e893c2eb3d4",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\model.html",
+    "sha256": "59f9cc566c73b40b60e77f4b2ee724cc037bba4ee10989f664c34bb07efab484",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\prototype\\admin.html",
+    "sha256": "55ee2ddf0dcad72a8bc6deeb8565ffef71d8c52158897c825ab35c6dbf1ea2e2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\prototype\\app.html",
+    "sha256": "97c198a6e169f48a952a6e3a98598f98526a8b5ef6d1fabb468ebfcda41be837",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\prototype\\space.html",
+    "sha256": "4a151f8fa24630071cd5b5a16600f3d401758664ad2e9ffcff961fbdc7903dfa",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\video\\app-stage.html",
+    "sha256": "37b66b231a950b0a7766c4dfe09ae04a33ca0644f4b623a08965a2d3a78ed41b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\客户关系管理_V1.html",
+    "sha256": "716c37f9f54f9fe997625456d8e7afd5c77e2da6c2e7b0b95324f85afea02133",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-18\\referenced-chatgpt-conversation-this-is-an\\outputs\\路演预览.html",
+    "sha256": "b46441eec3fbf1047d61a3b10a5ddba0005e877576f798c3f845edf74f070c6b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-02\\referenced-chatgpt-conversation-this-is-an\\outputs\\AI_Lead_Radar_Real_v1\\web\\index.html",
+    "sha256": "21c5c91847fdd9542608b3d082dd403b2214355364139e8779d3fc36ccb8a67d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\30-60-2-2\\outputs\\ziliao-miniapp\\prototype.html",
+    "sha256": "df0f471a9ce78b104c698cdf20064c9fca3504b65a35dfe2d886a3a7041567ef",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\research\\tools\\web\\index.html",
+    "sha256": "66b36c163dd1e7a6326d341042eddd40742817166178accf983be44e0adbfe71",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [
+      "flutter_bootstrap.js"
+    ],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\research\\tools\\weflow\\source\\enjoyZhou-WeFlow-70aff53\\index.html",
+    "sha256": "0a0512313479269e4e52a730ee02c8b64cfec23e1bdfdee26d084517b9b0862b",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\research\\tools\\weflow\\source\\enjoyZhou-WeFlow-70aff53\\public\\splash.html",
+    "sha256": "535c577aaa106e14fa22f4a21342489511764e045d9e4212e932f7680283f8cd",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\research\\tools\\wx_key\\web\\index.html",
+    "sha256": "af65712aa7915472638de90a8d3ac9402e34d100e6b83599152d343c7ee487ee",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [
+      "flutter_bootstrap.js"
+    ],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\lanzou_iframe.html",
+    "sha256": "4e11c837553cd66a2207e3f5e2bec1e79f1a76705c192f8104d85aa5d11108da",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\lanzou_iframe2.html",
+    "sha256": "b6833d960314157ca873e55cd530f9ab5bbffe1d1000d1b841bfe93460561380",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\lanzou_page.html",
+    "sha256": "897c1224302c25e425cba349f2f35c4d4b39673e5cf65d71d9db7cccee0d018c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\lanzou_real.html",
+    "sha256": "178306fb05181df2f23c72cfd34d14e97e442b8f1f86e880a817acd086f58d2d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\lanzou_wxkey.html",
+    "read_error": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\wxkey_page.html",
+    "sha256": "2f53c99b1222272975e981cdefe209a27fdd6ea1d69f470b24d67687cd618feb",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-09-23\\new-chat\\public\\index.html",
+    "sha256": "442959e748ec7827e7e804a0f518e54503e916350a5bb48e2d811071eee128a1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-11\\new-chat\\理赔资料分类工具\\保险理赔资料分类工具.html",
+    "sha256": "498321f0bc6fce56a956de89aca4664d3c30dd3d1254d38a67d0f1639166cbd9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\admin.html",
+    "sha256": "9c8e2b9bca36ea097f8988e939e54139b2bd753fcbf112deacf661391359a406",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\detail.html",
+    "sha256": "38487fe536cb038f3d212f590aefdc301e53ff2b78fcee3166464cd5db0c7f26",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\favorites.html",
+    "sha256": "ad5fb3e09d26b86f1bb252289a9a33ac6a0e1dcf6e5ee00391a550a7638e6f13",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\feed.html",
+    "sha256": "34a525e303e767985b95a6692c89ba2b5156cdd671fef2a111d56068380f1539",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\index.html",
+    "sha256": "6a6ad382b14f12195dcaa032c8847b6dfef973198cf01f1867b106361636eb98",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\industries.html",
+    "sha256": "dbdad0b4c476eca49fea1ce9e78b5cbc48754c622c0d00e7632101f229f234a6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\login.html",
+    "sha256": "20048b6a9e7a01cbb7bfa57531d7256b5a973363014dd55439cd5dfc06ccdc34",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\messages.html",
+    "sha256": "4484bd2e712136ff034b0364991d84d2232bf5007e2709b16630484104aee97e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\profile.html",
+    "sha256": "338ad9ca2e430e37f5605a51d328a63ac3c0722cc833bf84749834f7edfb461b",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\register.html",
+    "sha256": "f3610cc46afb36ff4bb1da8164db1d0126737f8301f5aa518a70d0da70e75c6c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\search.html",
+    "sha256": "90de580ffc93d9eda5353eda85bad50f694c95557f952b22f98135f9bd586ff8",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-10-13\\new-chat\\ziliao-baishitong\\public\\upload.html",
+    "sha256": "cc5bb0854b96fe773db38c2329a3d099955944a51cc2b40c39aaebc33ed5dd59",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Downloads\\梦境之境.html",
+    "sha256": "19112ce75c78a297b55dba8ccce7b3e2747e903907743469fb90d2608c37f190",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\11111\\2026年8月20日092314\\templates\\index.html",
+    "sha256": "c19799b9a391e5f00cc4b4751290661aeaa8bcc2984f19e1bf6959f2478b5135",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026-9-14 071330\\gateway\\static\\index.html",
+    "sha256": "f67edbc1adef5a4412a7e45b3cbea7bea302208b0adf90b1177af77f04fcd449",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026-9-14 071330\\xiaodoubao\\index.html",
+    "sha256": "6050368d875acaa47028bd00757c00b41e43cf1d302c79abd9780bfbc8b1f4af",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月10日071529综合\\index.html",
+    "sha256": "da635c60742576b02c0676bdd09f40878b59781d048a07bc461078eabc093807",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月10日071529综合\\黑金二维码工坊.html",
+    "sha256": "c4b966cbe30b83d1fc94fa1f746d017434fe3aad28c1cfae6fd24982913b5348",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月12日02534直播工具背景\\dist\\index.html",
+    "sha256": "1cefecc86be4db133414fef852087c3d978d9ecbd159dd2cf79c9ae02c37358c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月12日02534直播工具背景\\index.html",
+    "sha256": "d5f79722a2ae5931ad101748fe4b6ca1e2048de5164fcbc9cd6a9a644e4bb137",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月28日资源整合\\2026年7月28日资源整合直播背景应用\\web\\control.html",
+    "sha256": "93cc5e0c8d1c77144e04a8c535f13525a8e1ac5b80fbeaa23a9098d510b0ca94",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月28日资源整合\\2026年7月28日资源整合直播背景应用\\web\\display.html",
+    "sha256": "4acea7fc198f45d3e69371efab4afa7e030acdabdcaf76161f183efe19d8ff4c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月28日资源整合\\2026年7月28日资源整合直播背景应用\\web\\index.html",
+    "sha256": "317967a04922a95517fb29f9c816bc220381d69b3f66055e10d8fb25cae15615",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月3日015509\\index.html",
+    "sha256": "7f2cc0e0b2830d2fd69aa9354e43d4753d654f28daf52023fa4af223689cd148",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日001208直播工具\\index.html",
+    "sha256": "781d768e38c192c39097e3657c9f821bc9d76da4bd4c5302fafcefc4a2dbf4fe",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\admin\\index.html",
+    "sha256": "a3852dfcb079a1c40fcbe5f5b0b63467d7344f280776af5a872a348ff4379b75",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\index.html",
+    "sha256": "cc3678e58998102e824ae74bb69730e9f934bbf4a137b2b82718017585e8476e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\about.html",
+    "sha256": "fcb1090c486f0f24ad25a2499f007ad195c647bedd5ebe868e7744b5bd4b6168",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\archives.html",
+    "sha256": "ade2f9d3d674ba8c2015a4a2fbd030f7167cac0072495220c52a24c16eafc40b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\charity.html",
+    "sha256": "8339f252db80185496307bfff32b78bce925b7ca9c1ffa6bfdce91bd77292d68",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\forum.html",
+    "sha256": "4ce41455b281c5a108387beda56ebca2cdecea92d55e2496757618472ff18e64",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\gallery.html",
+    "sha256": "4006069ce684f7f5b8cc39540e5674b32477418962b258ea31877ecda43f98f5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\genealogy.html",
+    "sha256": "dcb358a7c7ba708e41bfe6992cec8f41d081193af94f4be1d9a9c3315f41d49a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\member.html",
+    "sha256": "62ec8d64e72f758698e366c6525c96db9a1df49f963fe1a6c420bbf5bbd7cdfe",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\origin.html",
+    "sha256": "9bb1b63acccc7324e852100290747986f08d1cd96ebc750938bcd0a34d4f2e2f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\search.html",
+    "sha256": "d140c32aaf39445fd7d92c4fb65ac6fa12ef659a89d91617f5f163ba8009e720",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日114131泸州任氏宗亲\\pages\\tools.html",
+    "sha256": "a1542d638719b482fdc5b1148cc34c1c963edc5b3da362700fce3e3cff846c70",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日163114第一性原理\\first_principle_web\\index.html",
+    "sha256": "650d66c2e201e3558c1e6990cc5db2fda807ecc742d079ce1df20e2aafd41c89",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日163114第一性原理\\first_principle_web\\public\\index.html",
+    "sha256": "cc72fef7b1175b9f81952de9f5eefa037101806001b79e94ec05f688a781d2fe",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\2026年7月8日163114第一性原理\\index.html",
+    "sha256": "4b4164fb90d0aa6ec56f7507232aac354e1ca6a1d3729805d15f83b618e9e64a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\AI-Girl\\frontend\\index.html",
+    "sha256": "da289558aaa5e1c454b865a028a893cfa326f439b76bfbbc0a04b078cab85fa2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\AI-Girl\\web_tool\\index.html",
+    "sha256": "bd30c998fa43fe45444f3c3001fe65b349e451e6b39985e2c75cbc7e930c319d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\GEO素材\\2027.html",
+    "sha256": "798519763cf8eea89960d29e167b9a23eaac2bd1c4c9e5658bdbdeedfdd684ba",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\GEO素材\\geo-workbench\\frontend\\dist\\index.html",
+    "sha256": "f4a6b27172a6a2649160bb2b80d3ea6c327e1b7f262dcbc63d27917a16531e85",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\GEO素材\\geo-workbench\\frontend\\index.html",
+    "sha256": "131917b227a1265803f1600db9949b2d658fccc7c8ba5df9ddd2b7e5c5139254",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\GEO素材\\website\\index.html",
+    "sha256": "0ee7191c507370f54910e140e253f8d75602366d79594614b0d4310bd92cc3bc",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\Users\\Administrator\\Videos\\倒计时闹钟.html",
+    "sha256": "8758bfa5c89ed53cd380f93b68ef4b89a57248b0fa8ac2adca66f5765a7fb37b",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\ai-tools\\ai-hub\\index.html",
+    "sha256": "3a4a8718f37870afdb2de52f9c067bcf45b043cffea90ea80a9dcccc5cb0ed89",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\ai-tools\\ai-hub\\local-report.html",
+    "sha256": "bd29565cf421e676e77f5642d090f22e37f2f3c0e6141b2e6547bf0742ce921d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\ai-tools\\ai-hub\\template.html",
+    "sha256": "f2e463013eb7e64e11c7d19a929d4fd8c69ed36f31f044744167accca1e53ad1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\earth-specialties\\index.html",
+    "sha256": "0ece2cbf217e17e171910972c56b6c704140d0348b863f274c2965a0ca25f09c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\minimax\\junge-portfolio\\index.html",
+    "sha256": "f962c404ceceeaa09d42940108851deaa59c769fe7f72450a5e99f98640c3804",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\activity-select\\index.html",
+    "sha256": "b07aa9194e100d896e033a4e7ca2cc1315427e1a8267bf9f1e62d21abc79cc13",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\activity-tips\\index.html",
+    "sha256": "c5a5eebc39f1255a4075312ca099a63bb16dfaf67ce69c9df0a53ffbf7e76e8b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\activity-zone\\index.html",
+    "sha256": "4de9c5b446da66623523d0ccb253caa1a696167fa9cad4b5a85c843ebcc8b20c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\ai-assistant\\index.html",
+    "sha256": "d15f120d116f9429caf61ae8c9e64df1dc444511e3ca895e38e7b8a7b22e245a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\audio-console\\index.html",
+    "sha256": "09a9b086660be0c24ae40d788912e85bea4f160e0d70f6690774d03256cdb799",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\audio-room-bg\\index.html",
+    "sha256": "1e9b64c09e3c0756c3ae9a9d996165dddd910b7233cbd121a8234b39ec9107a1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\battle-float\\index.html",
+    "sha256": "b63648ceab97d0413eefa5b09d49635d058588fa972407f4f7477383b46cf99f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\battle\\index.html",
+    "sha256": "37eced3f6b270c009b50ddc0e669a341fb50ddcbb1054bedb36905c7ba551899",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\boxH5\\index.html",
+    "sha256": "e4ccd5b3fb3e7a930838f1fd965b7041f5d6cbd020bdebf49533ea97d5ffd7d7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\center-console-float\\index.html",
+    "sha256": "211500bb7d03d08411d72a5fe2e94d07f6c9becf4af88c7c4c386a9fbed2be5a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\charity\\index.html",
+    "sha256": "ac7d3366abe7750ca1687d2a88bc831102a3b7108e112f4cc470065c6bc868d2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\chat-room\\index.html",
+    "sha256": "bc4a17ed149e6bfde45a8d567b22a304da64d01c2457ad3ad0beb9c4ac5cc6da",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\chatDownload\\index.html",
+    "sha256": "b09a1f042675eebc7f7e3ef8690f153d9c00ec194f6f56971059378457b679af",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\common\\index.html",
+    "sha256": "c203a6ffd9fb52b4c870ce95fb39b08964ed9436f361b046d4ef8bae50d0ae56",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\customer-service\\index.html",
+    "sha256": "82026b8126470f0f7561e1ac4ec6cdb69ccb91e35d3d2ed66a2f953401131901",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\debug\\index.html",
+    "sha256": "26bd455b7462c8f45c9d57b6cd4d06137b999f9e5fbdaeec327289509d5d8f28",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\face-detect\\index.html",
+    "sha256": "acb9f9571f136128af30c4c7aafeb585b8206d871f547e3695f0e1ce7f741a91",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\filterguide\\index.html",
+    "sha256": "0f1ec4e660b893a8d508fe31bca7cdffa8f53d1b8d8458b0faf38699305467b9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\float\\index.html",
+    "sha256": "97798ada3918b580fe75384b7af313952c2a9804e5fa7cdc8410d75716593d61",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\gift-float\\index.html",
+    "sha256": "a96a59c67c65d8fd2ca129842638f4192ba8b8d1aae2501c755133ce5d02e704",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\green-screen\\index.html",
+    "sha256": "28b35e635aa1ddbf490cd38a742fb6ce41ab3f8696a4c45a90c24b0a68845cdf",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\group-evaluate-endlive\\index.html",
+    "sha256": "d4bb35a23995edac3c4a18f4145321a08b58884f42360fe2b24b5f26fb9f6fbe",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\group-evaluate\\index.html",
+    "sha256": "46902e966dbe4197272d8bb1c57199f8a0124bcf32fa1cc8d6c72161a4ab3c05",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\group-live-layout\\index.html",
+    "sha256": "12115e50e18088568ee0f02c9c2f79ed346fb20ab2f01add4fcbadeea3a218e5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\group-live\\index.html",
+    "sha256": "2bc23ed82d5c0dfed8d367c142370272a6209429ce4d6405f2f0adfb0ed3b822",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\group-red-packet\\index.html",
+    "sha256": "27a9288931ddf9f222aa5a5e4e130858023e4ab871ea9903aa12e3544750bc6d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\guest-avatar\\index.html",
+    "sha256": "6e5239c541b197b51f1758e15fb0a05436c0a89ffc841a5dd0e14d11b5bbbb55",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\guest-battle\\index.html",
+    "sha256": "52a816a9c7f85e1562d845d92eb71dd804db913168ce22970af412a464349110",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\guest-mode-chat-room\\index.html",
+    "sha256": "8409851042562f08703fa4e2f3c86947c39a8e9707bb77ade7b35d5b0e1bdeab",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\guild-battle\\index.html",
+    "sha256": "974d73a8ce014f5e3d862b208a7173c1593ceea30da48dc00ec8154436e72796",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\home\\index.html",
+    "sha256": "7e24cdec8b45af52ddf319b01eb4d0612fa73fbca99881399bf26658af510fcf",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\interact-plugin-debug\\index.html",
+    "sha256": "309c107f4bca2f788d88c0e7088f9feff64aa115e7a8c6bdec428f5b17438afa",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\interact-plugin-layout\\index.html",
+    "sha256": "3e45c54a3be2151ae3aba25e4568352365d181fefd59af0b55cbe6761228da0f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\interact-plugin-pannel\\index.html",
+    "sha256": "ccdec9bb7c67e1300ed3a48dda57fe619cdb96a22e30d1dd424c78a1e280688c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\interactive-play\\index.html",
+    "sha256": "46ca81d4252b4337516c481563e17549dff60a2ab9d6d93aa473d0dc829dd811",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\ktv-music-tuning\\index.html",
+    "sha256": "f1a163820c55d62a703aa29a8a38d75b06cb02580d9966e066f236afcfb8186f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\ktv-song\\index.html",
+    "sha256": "25e5da26e3c5211ceaa5c310a0f241264dd5607acab859214179e57121b70fad",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\login\\index.html",
+    "sha256": "a765f15308a278c834c88b615c2e66b08b60f0159b7e52bae2c76c5f43385535",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\lynxInWebview\\index.html",
+    "sha256": "ab6326673cbbf0ac58e5dec89b2068a24a215f01053a81b611af16f30ceeaa45",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\lynxView\\index.html",
+    "sha256": "b9aea01ae3eb0d14a9264dbe94c5e2147224656f2bf11efeefac2868c9e437a2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\message-float\\index.html",
+    "sha256": "7df410613448aadb46650ca21b4699bc5b8c0c95c58b411b2d05de24f2e9c79c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\mini-game-content\\index.html",
+    "sha256": "4644fb701291708da9c940fda698d0fc5855b8fd707b096e668d6355ab3ca465",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\mini-game-wb\\index.html",
+    "sha256": "361b719e8b129477a27cda1cfbe4e468daf820172cd49e69a2222097a8ca8648",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\module-updater\\index.html",
+    "sha256": "3395119866b61e5f664a3be803006e74574e436ee0a102c643fba97102ad46af",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\notify-message\\index.html",
+    "sha256": "e80e7840e4f53005258ec43a67d02be41463b67502082a698f861957e9954363",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\official-material\\index.html",
+    "sha256": "908373a5d6814d62265e3d9298e565eaf5c32493892ce7f07a1deffdf82bff1e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\pico-game\\index.html",
+    "sha256": "2a1d07626236f166aa21d79da68ae34ce4507268c7a57c4f74026decf09a6216",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\pico-music-call-rank\\index.html",
+    "sha256": "36ecf122a52a2669f7b5aca0172b2e5d39dddd8ca009392ed881e57b9025e7ac",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\pipe-group-live-render\\index.html",
+    "sha256": "bd17617f5faffc2bc36c9f1811e612b57d93baff439cb5330ee0943245ef6885",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\popular-cards\\index.html",
+    "sha256": "a071b4cac2f56df6f02aaceae5f990230199740743b6a8896cec0704afae6d21",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\popup-dev\\index.html",
+    "sha256": "797a15480be49ce251786a0dec783fad3cd86f0e6aad5bba6fc9a1c93ffde072",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\popup\\index.html",
+    "sha256": "0db77d669dde49311bc38b5bec23833bf843438e95b0419a56a792eec218449f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\predictor\\index.html",
+    "sha256": "8cf0c1074e9f8480e679d186982ce42a124160e04ac02ab34d728666343169e4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\preview\\index.html",
+    "sha256": "236e31a6e9fc69e0b99ec882aee98bac955176c5a056d36102f64d0231d24f3d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\rank-float\\index.html",
+    "sha256": "29ca61b44787470ee3dc7263fba190cc983eca73de2c9eb837f515ca7a38c6ba",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\recharge-window\\index.html",
+    "sha256": "e93bdaf86189102b162f6e7f9f01e41d27ddb47e8d32bcd7fca26c70957f1aa8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\source-float\\index.html",
+    "sha256": "c8981b3f3448c3d0ce30fdeb7433600d19e11de77bc838eed348523421e6de57",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\sticker-show-render-sub\\index.html",
+    "sha256": "afd61539eed90263d6563e4df9e5b9b9135e2b352cecd41fcb536cf99d0addec",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\sticker-show-render\\index.html",
+    "sha256": "0b7be60a287a46563a65b9c41530ee5ccade47d7c068048cb4ec9734a1079c13",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\sticker-show-v2\\index.html",
+    "sha256": "255648afeb70e58fbfa051f2ea8d9d0eab8f0668ef385f93c59ca634f687afbf",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\theme-compete-record\\index.html",
+    "sha256": "446293e5c8d0695f59338085e4215e6713654d1df126484dfd7b6a9110b0902f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\u-request-i-sing\\index.html",
+    "sha256": "d703a8d1afb79dcbcbc483e7bcc9f8523d9881f8cc2429e1ede5359ac0eb471a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\updateV2\\index.html",
+    "sha256": "7201f40e48b15e1584a0508282928a058f66f28153bbc47d80aa806663167135",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\update\\index.html",
+    "sha256": "bc04e468b41fc8a587fcb7fad63477d8453ad8bcd0d5ecbbb35088e36c4be985",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\variety-show-layout\\index.html",
+    "sha256": "541c16cfa36746a94622ba0af270cee7ba552b0d20b05520e614df47899ce462",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\variety-show-render\\index.html",
+    "sha256": "9be4323a06dab624a2c96ab0c929af8fd32bfe2ecc70784a190dfa9470775dc7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\variety-show-sticker\\index.html",
+    "sha256": "bd2d074c6edd1a3a0feb3ba05ffcf0e5d344645600c43e665b8d9f156c4f6398",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\variety-show-video\\index.html",
+    "sha256": "ea40ce00d5337318dd92fb592984668438f37ad6c769aaa9270856d5bc0b3d6a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\variety-show\\index.html",
+    "sha256": "a01f3bd5d155b06fa48f4746305a2a0554d467fda8dc6860bfbdcb4b577c482e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\virtual-idol-capture-tip\\index.html",
+    "sha256": "af9e7410c256539f8e15096d509f9ec3d43720a58e9c3d180829989b4d513930",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\virtual-idol-popup\\index.html",
+    "sha256": "9273b3b8c47de5a4410685100ec942d950552e0aec7e4b17a962aa49a0b113dd",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\virtual-idol\\index.html",
+    "sha256": "6fa3191d253b748b5671f760635e669c815fbe270f81b4d8c0e785a920fca011",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\vtuber-audit\\index.html",
+    "sha256": "a1dc46edc6892bb821f5dca2c6e34daede06f70414e2cb4492009651c0108cd8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\webview\\index.html",
+    "sha256": "19093c24b5692464ecde9b887a33b41c3d733530d22c76928edd39bae9ed7ff2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\wgame\\index.html",
+    "sha256": "f00da8b4892054b94f1ba2880bd9e1979f26a593e53361fa64957183997ed65a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\wishList\\index.html",
+    "sha256": "621ca4d266082fd1f9acc835b55bb23da7791883a7cbc4658869ce1bdcab1bd7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\pages\\xr-live\\index.html",
+    "sha256": "835528613063718a60c82c8a3aa51b3f536106c3628edff201d24bdd6bf9baa0",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\edt\\adptor.html",
+    "sha256": "2bcfe2e53cdd976657bb3e6524ca920f1b787a94d55e5b50159c9f62e86a5d70",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\edt\\memory.min.html",
+    "sha256": "d63619849d9748affb6dd49805453ec321f942104c9e23eef8fd2e5c2560e375",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\activity-select\\index.html",
+    "sha256": "35d8391af2ecab24ef695f1ad5a46e838ed1c6524daa95e6c6d149b92256ad1d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\activity-tips\\index.html",
+    "sha256": "6f0bfb36181e378c9cab20e2cfb5cd2be4a8c51fa56bbce1ac1c18ef311cdfd3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\activity-zone\\index.html",
+    "sha256": "e85c0122222af5cb088afeabd58076f6299ae5afa1010ed7c1fd1f7d0bac8cb6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\ai-assistant\\index.html",
+    "sha256": "93a145d205fe52b039d2618fd4fa3ab9ba5ce8ca49cf90240c9aa7de37d8a429",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\audio-console\\index.html",
+    "sha256": "5d1611e7edbb947a2570d211e95483c2ef17e96ca9e81535202ecd7d1fa82d9f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\audio-room-bg\\index.html",
+    "sha256": "1e81e6b74322c19507403ea97128c5beeff46eb00761ac114779ff7ed0120446",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\battle-float\\index.html",
+    "sha256": "26272a3aa364b5f62eb64404c7a71fded341a92460dcc9290703af1cd1053ca5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\battle\\index.html",
+    "sha256": "fe8cb5aa025ce129a59ef70fe2d39fa2424bf957d8f3cc75d224ac71ba796cfd",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\boxH5\\index.html",
+    "sha256": "3d3880830729372488b0aac9ed3a775e42947d9d78646d48e01ff3616ed5c3e0",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\center-console-float\\index.html",
+    "sha256": "6e484f48a947aac9dbca7be64fe2e433233be2a074e73d1e317ebc16592d86f6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\charity\\index.html",
+    "sha256": "0ea0bcbca3352b7da1b3428bf25c9f2d5d3c09fbc16b6b6c5334ad6d9ca7ee1b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\chat-room\\index.html",
+    "sha256": "0fa635731d22737e71eb83ad3b511ec8ef64c15fc0b5ae878724294c8ef7be89",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\chatDownload\\index.html",
+    "sha256": "22dc8aa53d47fbc8b6573fdabc69b37949033c8a4373e8437de0b2c6a8178303",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\common\\index.html",
+    "sha256": "dc9052a42af3a24b518f68c1f8264bc49fad2dfcfe9bbfd9454255b03f705d84",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\customer-service\\index.html",
+    "sha256": "8380845e1f1fc527498cddc35ed2b4bbaecbf98c9f8d288473a9f9ce00b51cec",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\debug\\index.html",
+    "sha256": "d063c18a5e17abc3ff54c689bab2f11244a82da9643ad819748482f36bbb098b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\face-detect\\index.html",
+    "sha256": "8f6fc78216d42d078115888a71d5a87c1b936b1c2231d9027294f55f66ce4127",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\filterguide\\index.html",
+    "sha256": "9bd4b6b918d116d59d0da58f1c60ad3b4d8fad6538bc26f718d528533b11af43",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\float\\index.html",
+    "sha256": "484fa0fe382f5b02024ee28fb2a1a17194778dbab4b698b276e68902d43a7ef2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\gift-float\\index.html",
+    "sha256": "e7fb6d960c281ed4385299b268dd265fac3c838bab50c7bdca9e1bba29ecc3d7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\green-screen\\index.html",
+    "sha256": "ed7445457e5d709de1cb513417ab60d3548b5823581c00b20c2fe19e4d284168",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\group-evaluate-endlive\\index.html",
+    "sha256": "c022ce1f3ba48cbd2f90f1a2278ea3846ee4184d3082c4b0cbba2d16bedbcd20",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\group-evaluate\\index.html",
+    "sha256": "4de6e3ed0d0d3ee8f8871abfe757444693d4538c12a08644a95208355b7fce2a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\group-live-layout\\index.html",
+    "sha256": "0300426b2691ac5c87ce44fabfe0554062849373a4d4dc0760c513d47f992538",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\group-live\\index.html",
+    "sha256": "104e2345d0b75f09814e5cc717b2516dcb367475f2a2868394265a84558dae70",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\group-red-packet\\index.html",
+    "sha256": "413c0ddb3c353b7c6590674388be5af5baeb28c2202c920fbbc9c7ea3a184b1b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\guest-avatar\\index.html",
+    "sha256": "35625e78edd505472c5b563ce2aeb1abd67e3a98156df392cda2b38e69b9ba30",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\guest-battle\\index.html",
+    "sha256": "eb1dffa2af9b378b287944ab3bf70ef252c39ab4c57edd7f9594dc799d04fd29",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\guest-mode-chat-room\\index.html",
+    "sha256": "3c05325d34caeef5c05ad8384f2ace457c6a23a6fe4e4cc6e65789a8504580c4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\guild-battle\\index.html",
+    "sha256": "5b60fb1aadbbe49fe24ce7b08d1b31855ed68dec56f5446f2a60d4fefec01013",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\home\\index.html",
+    "sha256": "340dfc1efb27dba67fc1e882cb1a6ff61371889c3bc1588e22dbff9b1adcf618",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\interact-plugin-debug\\index.html",
+    "sha256": "6b9e675264edd3d393e533873d2839b9d10bf50584818216e2ef0e65ac38d0a9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\interact-plugin-layout\\index.html",
+    "sha256": "fd5abd8f7cd2ff7804314db071a65126ed145f134c6115c81b086729112e0549",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\interact-plugin-pannel\\index.html",
+    "sha256": "0d95d2cf59928d8348fc487f45d6dc7af9161959429be9832ab93a2ed40f306d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\interactive-play\\index.html",
+    "sha256": "84bab644de7a5877b43dbecbb9c1815101ce56ba9099196fde8ae07c153e8228",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\ktv-music-tuning\\index.html",
+    "sha256": "6a03f7baee9ddd625c6b73d7c1f4c293ef595f8efde4c9a2d8d3d818b58acc27",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\ktv-song\\index.html",
+    "sha256": "edc809a9aeff89a7109702a1bc85a6ecbc567123d776f845c9b2ad388bba7036",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\login\\index.html",
+    "sha256": "79100d42914b33d7c93691c2ee7799199556238a1e4bd7f896ef874317a44e59",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\lynxInWebview\\index.html",
+    "sha256": "09ad13875f00759676c09a52f5bf88de9eac3d150bd9b71edd31a9fd4bec0473",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\lynxView\\index.html",
+    "sha256": "3420e5dd0b15c6021eb55d6190db0e63a4cf37efde6518455e623fb289e3c9e2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\message-float\\index.html",
+    "sha256": "c974493f5614174657fd63e33e8c8dd79326abcbe3cd32a77c30e789244e61c0",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\mini-game-content\\index.html",
+    "sha256": "2a20383d09494a48c971ffc560242adb3aa02a09659276209c08a7a3293d1d32",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\mini-game-wb\\index.html",
+    "sha256": "b8816e419200581d9798f08c3a9c98537971de88fb0099ce3bd8d8ec950cf089",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\module-updater\\index.html",
+    "sha256": "fd6c11fe5a738762fbcbad7768dab00315496700f6e2598a08b6300d6dd75444",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\notify-message\\index.html",
+    "sha256": "712403f4bce5219f1b9155b415168592ea62f04f6d2c5b2091b4cca18a8bfbe4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\official-material\\index.html",
+    "sha256": "546de309240f09dd66a255b415862b8d5197e48caee8fcdf7d384c3925dbbb54",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\pico-game\\index.html",
+    "sha256": "fc6bfbc936895b44c08dfd9e8a38e49b80a4841c246021f03cfbceb15cd458c8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\pico-music-call-rank\\index.html",
+    "sha256": "1e622e13e1dd138038e3c65d8d92f8ebee29250ed3de910b9d3b088c45349064",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\popular-cards\\index.html",
+    "sha256": "f7da382385b7513acc0266743f7482024b9014f8ff7b10510f708eb515346226",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\popup-dev\\index.html",
+    "sha256": "fb83c80defcaa2268204b044b2e0b5b0e8d1ea051d9b8e4fb6e395f3c82b10af",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\popup\\index.html",
+    "sha256": "b9764869f9827aa610da52ef77aa85d2fac64538a5400f20e1ce9c3ca3962e9e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\predictor\\index.html",
+    "sha256": "61bb6702bec7d8e1c33da20a2384f04f5fee96dbe38f04b129626ef972946b98",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\preview\\index.html",
+    "sha256": "80cefcf9d76ff639deae175f0c54012ee26ec231e18e20734a78e7db845ea814",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\rank-float\\index.html",
+    "sha256": "39d677ee808eac7fe5d34c9506a65329655787ff133b8c87d46206d451a0c8ac",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\recharge-window\\index.html",
+    "sha256": "c1055e6071b1e111b24a9f4bdbb2d3451de05c218878c6ea73f0002c5135937a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\source-float\\index.html",
+    "sha256": "3847f891af6f76c07d62197c5d72d2cdcdf9b0fafca5fde98ad561f22e2f7a77",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\sticker-show-render-sub\\index.html",
+    "sha256": "8de78803aed2ec45da342f7ad09080accd104f2153b443de73cd9db6e07222d1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\sticker-show-render\\index.html",
+    "sha256": "4c36866a5a88e7bca57e4404cb7664f215799c2dd82d46069828f4f144beecd4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\sticker-show-v2\\index.html",
+    "sha256": "c79f5a7465bc1127455716a9025fcca8a70c02654540160322f3fa8fffe91538",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\theme-compete-record\\index.html",
+    "sha256": "25daba47a31d9d9303d925d6d03ef13d562e75bad40e0df25c2a56cd6a18f90b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\u-request-i-sing\\index.html",
+    "sha256": "54cf02764c80985da8067036cf49305003e8591dea273fbcc941180b1fccfbde",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\updateV2\\index.html",
+    "sha256": "0c2f49198c9bcadb3ef03b4328bbf9a64c900b663835889037b3b5487be6e7c1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\update\\index.html",
+    "sha256": "134f43895011f83737e332cfeb1ddc86661117a3793454718dc715d40a3d89bd",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\variety-show-layout\\index.html",
+    "sha256": "c7e8e373067af0146e034d8149c61fe2316161360b11c7c9310e73eb1c3e3ce2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\variety-show-render\\index.html",
+    "sha256": "d13f1ef61a225941a9d7783aadbdfc4e817347726737daa44e6d91c881d9364a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\variety-show-sticker\\index.html",
+    "sha256": "ecc823a560f72df1ab9a06338ce499d100bfd05ebe8eae1e83c747538e572d3b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\variety-show-video\\index.html",
+    "sha256": "75c4b238c23eda932ebf38b4d287fcd7bb552288d6c0ea14e32737cb210fdf17",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\variety-show\\index.html",
+    "sha256": "ffe51535c6e97774ea58e61480eed34b8a6feaec302a9c2f7f20fca58255dda3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\virtual-idol-capture-tip\\index.html",
+    "sha256": "8535b855918818bdde92b776873f48bee3dceb90a89da246237d67fcf56d9aaf",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\virtual-idol-popup\\index.html",
+    "sha256": "bceeeca5972492646f060e7033b93960a46893768823ac2c60f9f6bca1fa810b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\virtual-idol\\index.html",
+    "sha256": "35b32daec0980545a0d99823f1ae31892b5514c75949608abd4771affd6ef675",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\vtuber-audit\\index.html",
+    "sha256": "82359fd52940f95b655115ba41f967623abb8bdd122ea176a84dbae31fa41ed2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\webview\\index.html",
+    "sha256": "92d6859e09da5c1af763f4a720ac263f88891795c57fd053ac0c6139ca1a38ea",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\wgame\\index.html",
+    "sha256": "da0971c4d27af9306c6a85d20ff282caafc5b5a024f0d56341abe61bf54601b7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\wishList\\index.html",
+    "sha256": "9f9baee2aea2a46feddec937bd5d6921a673d115f1566c4cab9903560437c8c2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\pages\\xr-live\\index.html",
+    "sha256": "21d8c830c7ce8b44f03dadbd2c0445c8181822f0f4aae18de65967c0ed826e7d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\任军学网站 - 副本 (2)\\index.html",
+    "sha256": "1bf47809cd7d2f8e6b2c9e60655745087c7cbe89fa0081f3ac131300375ea6a5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\任军学网站 - 副本\\index.html",
+    "sha256": "9a6fb99f29c13145ea0bbc0c8395c73558c51fdbbfcc4247066f8e9e7d4eb587",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\任军学网站\\index.html",
+    "sha256": "65da4bb01e883a09ac799a5bcb455423415a5a8ac2ab33270de1d12863811caf",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\信用卡管理系统\\index.html",
+    "sha256": "31e838ce46ac260d8f2ab7953a81cc8b7d1e509a4d84d763b86c26a2360f18d2",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\修复\\土特产科技风网站\\index.html",
+    "sha256": "5a9b2b1f8a1ec8c2be0799a4d3758db52a8122740b01d2e6927a833df190f790",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\家族程序APP\\1\\index.html",
+    "sha256": "b15c8e806df596fdf47d95a4df0aa1f061840b381a2f26146c77da24a78b525a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\家族程序APP\\index.html",
+    "sha256": "d8a36778cfcb23d0a78b33a4c51c18be9be7704fc111e28f11f387d58c589f77",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\家族程序APP\\view-image.html",
+    "sha256": "ac39a69e50f2394303ef55d6f18bf66bdc187f3c7bec26d461d6cc55bc9085f4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\密码记录本\\密码记录本.html",
+    "sha256": "c2a4f5e42a5e45d5102749ec24fb871b1bba3bdd3129f896715bc718c5e8f8a8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\新建文件夹\\codebuddy2026年7月26日081132\\index.html",
+    "sha256": "030565496a75aa4116dab717cbcde7cf89c1882ce4d526c48f8f688d76808d7a",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\新建文件夹\\codebuddy2026年7月26日081132\\ray_tracer\\index.html",
+    "sha256": "d48fa38077f0d7516a382bf55ccfe92630445523cd2d86478b63cfaf7492a3d1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\新建文件夹\\土特产大屏\\index.html",
+    "sha256": "08d11f5a68d1c08a834b9b1fef1d5bbfe03af4ce00a81583b9b3f848d205a9d7",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\新建文件夹\\批量重命名工具\\index.html",
+    "sha256": "28d8519183e4b288ef6056b01efa2b9560c7117a9c098f47bed2114b8c49049c",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\时间各地土特产\\2026年7月25日111230\\dist\\index.html",
+    "sha256": "c248de9e8d0d64c1f74580f0af7dbe00a6df153838cbb68cc8de28237109620f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\时间各地土特产\\2026年7月25日111230\\index.html",
+    "sha256": "0b2f5d8d4bc67d9a2a9ed8da962134dbdc1dc159b71afe57398acb4119e0de14",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\时间各地土特产\\2026年7月25日213838\\index.html",
+    "sha256": "25786963613fcc0156837a98f1f2dc98c85dd940749e1d0cbcf9ab2751506785",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\最新项目-自媒体相关\\electron\\index.html",
+    "sha256": "32861594bae12dc1d583f8d93f2cd8886c788d6317fe6a2c0b9879b100ffe0a9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\最新项目-自媒体相关\\frontend\\index-static.html",
+    "sha256": "ff0b465b13d53dc87a34686235f8b20dedc0f234815e76ed506458eaae863324",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\最新项目-自媒体相关\\frontend\\index.html",
+    "sha256": "a20372fc55360ddeb458f637f9084a634513779ccfc2eba674613d73cba6b166",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\最新项目-自媒体相关\\frontend\\neon-tool.html",
+    "sha256": "d8089c37b3a711335003423ae3e303c05b91be2dff20ffa4209510cc2ec9e06d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\最新项目-自媒体相关\\index.html",
+    "sha256": "7f189db7aefc361696b921b3267dbf5de7a140dfa02a93b61c038ef657111c7e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "D:\\泸州保险客资雷达_电脑版\\AI_Lead_Radar_Real_v1\\web\\index.html",
+    "sha256": "cf0ecc22b45615ccf687b0458484c8f8095f8ab94d46193a32ae0ca65df27e95",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\index.html",
+    "sha256": "08fbf4a0c12a851dda2e2776a73f89e2083961afb34b2bf251a21084c8fddd79",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\notepad.html",
+    "sha256": "b7b47df6a0d2c19f9fa8e36444099e0cd10a0b9dd588222594e162895d691540",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\questionnaire.html",
+    "sha256": "b6b177f57737929276d6b956a73d15fbdaab25995b5cf5aca842d511b5f2b401",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\九页问卷在线版.html",
+    "sha256": "03bddd2f678e85d1cc47a0109b8eb9ddca6f47bb4d89c94d79523c4746536ea9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\九页问卷系统使用说明.html",
+    "sha256": "993ffccc69012aa27ba14d96871e785c483bc95727c75cc42357fcfae69d8dab",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\九页问卷调查系统_v1.0_周二 22508\\九页问卷调查表.html",
+    "sha256": "27e788b0bc9d7809be3377e78570883be258bd90c02cb06d2af9c4f2ad6cacf5",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\九页问卷调查表.html",
+    "sha256": "025d492af715033dd9bc54b8c3c08c03489b2e3eee07b0b34750a751c242bb7f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\使用说明.html",
+    "sha256": "dfeeb305ff92f079176a88345327c6c80086e9f54955305bf4c2216b5261d99b",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\信用卡管理.html",
+    "sha256": "8b6ca1a798a2bcb8fffe83e58800a82ab263370a77069e011646f746e58abe3c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\在线部署九页问卷.html",
+    "sha256": "bf99248b016a02ecdf3f29d571d1c9a3b25a8200d0fa3037780df3f7cc53c3ea",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\宝贝助手.html",
+    "sha256": "d775f6ae0b64bcbf7ac7157db518c76aba4e4ad51316e49bdbd8ce8eaf1d42e1",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\客户管理系统.html",
+    "sha256": "49c01c4562677dc1638a6522496bad699cf4e5f933cfe07cda35f36f18a34a24",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\客户管理系统_部署\\index.html",
+    "sha256": "6ba06038f8662aafb4eec8156ffbaca1fe4b06758d659bb635585ce61fbcae89",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\家族日程管理.html",
+    "sha256": "2a852517ea3beaafcd39b63b2629e0013105c7aaf29745c7aa364d8dd5ca0dc5",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\导航首页.html",
+    "sha256": "a62128aed9f9ec752bff6795ebc220d7102fcc565a55064fcfb97e0879de9109",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\智能证件照生成.html",
+    "sha256": "c6a156d523121a182b73af919c40dd7dee37f4c60bc9b668a32b04371ea4178e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\歌词翻译.html",
+    "sha256": "48a9f21e42411b16f4a8de426c28c1af2a2fc06e1b00e653a7a0e436779ae6b8",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\消费助手.html",
+    "sha256": "1b4d8ae8f59a91ef5dd6bcb5ce27fb22215950226d0a7d87b8c425854734460f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\消费监控助手.html",
+    "sha256": "7d205272e07fa1b6650d8b137aa34b9348e7f615ca3eb8fa0d2f0170a6c63911",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\消费监控助手_二维码.html",
+    "sha256": "7a963995f64f39b1932f3e6e161e8e2b8374418343fbabf65729f8d2c86bfbd4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\消费监控助手_演示版.html",
+    "sha256": "a3e664e475fe032372b186428819af1abd53937eefd78d0957eafcb1812683f3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\理赔助手.html",
+    "sha256": "9efe232253ad73036a14ee7b8c7a784aab78dad4a327bdf12e21c2841056da42",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\生日助手.html",
+    "sha256": "06816d97dee8fe853632d478dbe48b828effe862e51f7d122c65ed25599daf64",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\社工考试助手.html",
+    "sha256": "5c21ac65d707d3b7cf4fd0636f67ac66ee18c5a5a6a7629a46eeab5a1dde7c36",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\社工考试助手_实用功能.html",
+    "sha256": "cffac7e616bfee80e7cbe544b2e8b066b1470cb3b9564f96f2d59f62088db8d2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\社工考试助手_考点速记.html",
+    "sha256": "87b1f6dbec554655f6ecb0ed9505b13271e7e420b119b708e0e2f3ef7cedc1a6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\职业装生成.html",
+    "sha256": "44c8e6567a047e2e7f079bfec838e853fb845378dc847e062379fd4b7a59d449",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\表格复制助手.html",
+    "sha256": "4dff1c175c04c631aded3c3f4fa7b727287b6eea6267d89931cb9bf29e06355a",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\表格复制助手_部署\\index.html",
+    "sha256": "fcddc5de6b58caf108798185a05cfd7a8c9a39c8b00572bb9e40325093d04851",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\表格复制助手增强版.html",
+    "sha256": "1b0e53ce6fe79523ee4f9f1a78618112a4921c2cdfa4e4e881cb213633fe7df0",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\表格复制助手增强版_部署\\index.html",
+    "sha256": "b0d2b2fc5ce021013c62e5a1a7cb9c98ae1799c14ec758a1db0c092a99e1477f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\表格识别复制助手.html",
+    "sha256": "093a127269fcb4b2dc7ec8d28f7f3c500e0a02e0f698dd97d65c6d821fbe6cb8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\资产管家.html",
+    "sha256": "04f77ab394a06e2bf6b8685fe297057192f20bdaadf15c2e371a180577f889be",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\足球悬浮记事本.html",
+    "sha256": "a704b936163c9efa60a93b4e44e9beb5d964a9162a5f7bb725186b212000cac8",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\问卷部署\\index.html",
+    "sha256": "64267dcbd33bdcf2c37b4b193e6470cfb4472ee09b40a3e53e287a6c1c8ae4fc",
+    "inline_scripts": 3,
+    "checked": 3,
+    "errors": [
+      "Unexpected token '<'",
+      "Unexpected token '<'",
+      "Unexpected token '<'"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\000001\\问卷部署\\questionnaire.html",
+    "sha256": "b83e8a64a15bdd0ed57e02699609e2c66a4fc73973a8dadc1e9526e4ad44660a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\030303\\index.html",
+    "sha256": "44aca26890c2a1facf524ec8f5003bd8530bc412843be4ed602b54d3a402403b",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\030303\\simple.html",
+    "sha256": "78df5c604c047f7a8e50a9886f0140de9cb454c26d6b44e784a7ba2b8ddaa1a3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\030303\\test.html",
+    "sha256": "8308ab03550b1593d2bebc6087a3b57a09d24f3f6a6c45ef73a1dede0b5e89be",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\040404\\index.html",
+    "sha256": "ee2f479398d6e7fa836e5b31ac8101397ecf32bec54dd09d09d0ebcdc721a8ee",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\040404\\src\\assets\\images\\placeholder.html",
+    "sha256": "9ef511929e5c5514b55f9752b0fc70adbcfc28f162b65a6a27e0dfc347050cb1",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\050505\\video-platform\\public\\index.html",
+    "sha256": "e14533a579acb6900c13dc2f4007b275df7ec2723c088f421618c9746480d711",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\050505\\video-platform\\simple-demo-v2.html",
+    "sha256": "93bcea1131feb55a2f7857820e0539e2a2ccecbdb15e5fe9f86bda82269ffa6d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\050505\\video-platform\\simple-demo-v3.html",
+    "sha256": "a461472abbce511930c696a2452ed3b2600293dafaff1b0a0fa6bc168a0b24a7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\050505\\video-platform\\simple-demo.html",
+    "sha256": "fc6105c6d1c5cf2ad573f6fa4a7a45e3b9a1b6a861e5b706da59a65e35474be2",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\060606\\public\\index.html",
+    "sha256": "2033bc1df90957c9d6356db3b5a71bd36b083a3f27048cb8649ae180a89156a1",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025nian6yue11ri\\123\\index.html",
+    "sha256": "db1ee250559427b7fe3cbb3e7af8f1e07cfcb0cd46202954441634d83c40eb8f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年10月20日\\ffmpeg-8.0\\fftools\\resources\\graph.html",
+    "sha256": "efd4d92ede0bf4e48d3305f6f4dcc6f65111628b01b4b83f42c1507aeed59430",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年10月20日\\ffmpeg-8.0\\tools\\bookmarklets.html",
+    "sha256": "a6580bef22decbcdca87b2841142143493d8ca6fc1d0fe475e1cf2a4d1252665",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\index.html",
+    "sha256": "26838c1481d8800b13c66d2ffd7afba8690e75b7a6a9ecf5639a680131ff66ca",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年8月23日\\one\\api_test.html",
+    "sha256": "6fb17f427323f6f1cf243cd01baac4a706c5fd162172f2e670bf98c97b981f96",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年8月23日\\one\\auto-clicker\\auto-clicker\\index.html",
+    "sha256": "3f941ad48862c6336c8b88a4399618f54621a090839a76561c1fdd35e4fc35e9",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年8月23日\\one\\auto-clicker\\index.html",
+    "sha256": "74cb060a918abc73334ea08c1468fe11077974d38ce041e3822b7d501f14f31d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年8月23日\\one\\auto-clicker\\preview.html",
+    "sha256": "4f79627257cdff9095fff604f0477b188d3bff2b99d20f535b88fc27822dd09f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2025年8月23日\\two\\auto-clicker\\index.html",
+    "sha256": "ee83e926ac782f00cc69f8380f1fc95e154ac1752b6f24a26f375db2e124508c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年4月18日132421自动点赞，自动发送\\index.html",
+    "sha256": "61cdcd9c2d359a598f91f129cb5d073f8e945fa89400b4c0ee3fe9b7c421bf34",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年4月18日132421自动点赞，自动发送\\public\\index.html",
+    "sha256": "88ef100d0b65fed3a8d743225d27c52ef01322f94dcd0f8a252b08db15508305",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年4月27日171351任氏名片\\ren_clan_card_tool\\index.html",
+    "sha256": "0ca34702cf29947e97863dbb674108f905ecd21c12fc9f179bc8fbeadf52b4a2",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年6月21日宗亲\\openclaw\\web\\index.html",
+    "sha256": "0517ca22e5d298bbe587abc258241716a8f7e767a4c7ab2127e4fe2a492dd939",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年6月24日天气通知（保险）\\index.html",
+    "sha256": "2c04b4edcb26a0c706cbf5d3d9a100d6cdd269939ddb0d2b46687a951f5e9063",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年6月24日学习第一天\\亲子沟通成长站.html",
+    "sha256": "0e1674ca629c26857226823be7a40b27301b65b9c9f37429270b726d756b7401",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年6月24日学习第一天\\未命名.html",
+    "sha256": "53b1722f4c00ad068e5997dbfc9ad8d4979bc60aaf7d6810793efb4686f41f10",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月13日070558客户资料\\身份证年龄计算器.html",
+    "sha256": "78b758107b93e256c28b0aaf21e0f5eeabf1cf2f3316bb26f96a0ce1f6a45571",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月13日070558客户资料\\鞠诗涵 - 副本\\.gh-pages-deploy\\index.html",
+    "sha256": "dccd5ba52371f839f7ad99d4f4a582d251a3d74c2335440e036bcdb3c53842ce",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月13日070558客户资料\\鞠诗涵 - 副本\\gh-pages-deploy\\index.html",
+    "sha256": "947e530e209b2432d945f1403abfef618396c85e51f9617bae160a44fdf22a15",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月13日070558客户资料\\鞠诗涵 - 副本\\index(7).html",
+    "sha256": "05bdec000eef7398d5975aac70f5dbc9d131e093ed14d8dc775281ea9c2a3194",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月13日070558客户资料\\鞠诗涵 - 副本\\src\\index.html",
+    "sha256": "65df5e01a3e5ee48a2411eb9b588beb995adec45b1529a7379a196b44eda9527",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [
+      "Unexpected token '<'"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月3日210515任氏宗族网站开发\\frontend\\index.html",
+    "sha256": "284ae7d795eb4969d95a304bdc89baeab655d22d35b80814a4ef56ebc141309c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\2026年7月3日任氏宗亲\\未命名.html",
+    "sha256": "32ef79909f9789b17eccba8f941da10dabb1f33d56c72e6d9bff58dbd9968999",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AAAA豆包网页开发\\2025年10月14日\\recruitment_game.html",
+    "sha256": "5d3a485d032a79a968759174e602b8ce9667c431bfb9b80a64eced2a2a0f3ddd",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AAAA豆包网页开发\\2025年10月14日\\traffic_accident_simulator.html",
+    "sha256": "65a7da37009af784edfb29c1be44dfe76518da6ad18ba9e853413d71ad85d2d0",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\ai_companion_system\\web\\index.html",
+    "sha256": "7bbb0a7e0d5782ef4a9f1dfcfd3a9a77ed4114e2fe48715f3ce6a4692477404d",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\face_detection_camera\\web\\index.html",
+    "sha256": "4a7019c336be64e89d0464b1fe574f56c72cf12cea5693802841d706fdbc3a79",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\GM183.htm",
+    "sha256": "569fee3c9fd586280a8125ae6747b89f7e511f511ec34a4135cfa88c7d7e8c06",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\chongzhi.htm",
+    "sha256": "3ee46943ef119834c34739192b756e6ace00fd8703167d7e74f4f16b3e012021",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\dtxd.htm",
+    "sha256": "4e03df49a3a986b4c3fb042b813527f7e56bc2f21534b503f0b0b6d7acc9f12e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\index.htm",
+    "sha256": "134dd05d6f2dc45b50dc4bc3c0ab576e4d701066f0881a69943a2d69c697c974",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\new4g.htm",
+    "sha256": "5379d29b13e74b9ac9dc9c2ac7c7f5d3f0359e0402b9855e2c67887951ca2e38",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\page.htm",
+    "sha256": "290b3d090f12b16b848f1c3f31c08382ddc8be1b42b9d577cda7e48bae328170",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\rwxt.htm",
+    "sha256": "0dcfec617c5b51768d21fa8eb0baf2ab83ffaa2ba4452c63bf44b11e0a698d99",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\tsgn.htm",
+    "sha256": "9b65b9d444f847fde2d00cd90faef7021c81fb4bd309f9b758729f723697eb71",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\vip.htm",
+    "sha256": "daeeaae632e5db2e9eebb9481b76a0da2d6946c9604a9185909099c0c804c145",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\xszn.htm",
+    "sha256": "290fcf75cba2880bb2a2ab99710559e6249e34ec064e108893d38cf9b15e227e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\xzzx.htm",
+    "sha256": "c90b89fa5c20cb27383671292bef32985d5935ad18a0461750a47e913652e4e0",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\yxscv21.htm",
+    "sha256": "0c9917cb8c9f294d9e6d43840893417edb411c5bdef584230716e260b3e8c1b7",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\yxscv30.htm",
+    "sha256": "e1a7f313465727f08cd43edaf2715e585b7dd4ff8ace67e689a33d74c1c51a64",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\zbjsv21.htm",
+    "sha256": "a1a6763280e862c9289100b1926e603e4584f28819b3a27f7e072eb48bf71a73",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\游蚊4G官方HTML精美网站\\zbjsv30.htm",
+    "sha256": "66b7470ba72068876e76b06df8521a1aac71e507e19960d065a35424ea59e672",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\OPC_V2_REAL_TEST\\客户管理网页\\index.html",
+    "sha256": "bc31bfeb6f58033bf5d087ccce55aaf70f6ed900f1a847d8505abf82675837ca",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\customer_service_bill_professional.html",
+    "sha256": "f1c3a623e51d9de5637df87e7c6a818daa1466e1f02e935e45aa6f1bccf83e88",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\daily_activities (1).html",
+    "sha256": "ed84c1af2e1e75bc96ae8ed290a2aec2928f62f3c9791e7c74399410d286c035",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\daily_activities.html",
+    "sha256": "e6e3ba4fd06bcbc9cb6e33996d2302e6ada993a3049d9906312f3f7240c8523b",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\index (1).html",
+    "sha256": "caf0e476df803e6e8bf2d3e5034bd0541e3b756797f104b97583e36aaa23b71c",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\index (2).html",
+    "sha256": "5f67ecffaedda2923627788b4141717aa52985399261fc7ed781d659b1a20a67",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\index (3).html",
+    "sha256": "b94a9c73b7f6eea1c71574afe040020494ec2f9010fcde6745c3b7510dc01bf1",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\index (4).html",
+    "sha256": "419042f4157e1cbe4e330633656c1828b72d88ffa1811e1daf5e4af8556c16d4",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\index.html",
+    "sha256": "20d0e0fbc93d5be542c85b23a91409aaa4c97cb76f27101b813e21cde2192974",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\intelligent_agent_improved (1).html",
+    "sha256": "a5edcabfd2062402d31f8ece9232b811dc7824123501b8609e7d92aad34ccd5f",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\intelligent_agent_with_bank_fields.html",
+    "sha256": "9cb53fe128d59178689de6913d1a56edf1a4026cf87d3e98f31dd35be49f9ff6",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\issue-tracker.html",
+    "sha256": "59642d0878659a60be6c9e5d72187a987f12f3cb55105740d8fe8e0f25947a3f",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\luzhou_policy_benefits.html",
+    "sha256": "02d1b78b0ca7d9f3e6aedc74939e82b98711ddb09a7e26acd15d2aa98f85e666",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\postpartum_care.html",
+    "sha256": "172dfbcfe8b3a1ca3cd1919434ce82d737b6b3068ab0a069018a362710210562",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\preview (1).html",
+    "sha256": "6a517c75b3323ce1f2f60b70ab5897950f8b93930b0059b6e0c3ba3c0345f32e",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\preview (2).html",
+    "sha256": "f36f95617438e7a1d66b2d1f1dd33c982143d2ea9901eec890d7e1689b772050",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\preview (4).html",
+    "sha256": "fb0410d1c226026b18bc317cc84d2007fd5949c2deaf3210ff7e92a30bbdd2f0",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\preview (5).html",
+    "sha256": "8686b96d6c27b14c1d980e718b07ca00f9bd8961cb0fd0e793b17c35c9f7c36d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\preview.html",
+    "sha256": "d17c5045234da8b60c71d1373b4a01ab9bbea8ecad395a678cbdc00741a90243",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\toolbox.html",
+    "sha256": "00c8fa56ce33157b3b5646c9fdd1fab148a5a28332a16d25d74e7f1918cfae6e",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\中医理疗和物理治疗明细.html",
+    "sha256": "31053b5e13d37ccb535da2cd58b48b4d896b7ad19d6e918905e9cc1ceffd26fb",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\四川泸州市伤残评定与事故赔偿责任划分深度研究报告.html",
+    "sha256": "d5d656ed5d2edb6f1dd1b75328be9907eff0ae15b9e3d05756a845f033ee3dce",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\四川泸州政府对各类企业的最新政策红利全面梳理.html",
+    "sha256": "aa26fd9c86db6343a63c11ad65fae6b64d0d002cc6b52227bb0e69ac7e13b87a",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (1).html",
+    "sha256": "99fd77546da7e08863146a5e528e7fd3ff072210b3f72b23f0bb4002e33151bb",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (10).html",
+    "sha256": "50e12b619506cf3c40761641ae533dbcf446c08fd262aeaba4795aa607f9dc36",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (2).html",
+    "sha256": "2d9fd7eeafed9aad8977de12f57630808f8f354778821072e909cac00bdaa2c4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (3).html",
+    "sha256": "10be27e671d2defd145fc3ea6ce786a8a96864f0aa7d7fe4d87681f26cff244d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (4).html",
+    "sha256": "680255b97b0db4ae9e80dc698ac16416db791d80608f90ec3e09965fe5959eb1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (5).html",
+    "sha256": "f59f41e2f31a2011ee7802f9b051215e077c2f079b2db36f7d18f6fae91d1ab7",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (6).html",
+    "sha256": "192a46289d84b9f24427086bd82b48f4d7f3294ee9a107fbcaf7b74c9cfbdc4f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (7).html",
+    "sha256": "106fa6d5bb3b0fdfbe62018e9a52c66735c4f38ae0502b52ce6ef00cebce110f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (8).html",
+    "sha256": "6da6d46a24e8c0403881b1c14cf1149131541c205ef4bca81cc2a8ac3fde9bef",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名 (9).html",
+    "sha256": "06b1b62928c5f65100d41a58b1ca49de364e44bda52d5e7c2f206e06a1f3c570",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\未命名.html",
+    "sha256": "621b18d02637ec1b41c3d67ce9b131c6e702c4f0c2dbeacc2c3926821e94126e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\每天.html",
+    "sha256": "fa72f1511e1ad0f9f6e3673a1e32c1a0dacfd5a3f051fc74e9c74e4744361bd4",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\汇总分析.html",
+    "sha256": "37ebb8886597051720f21e87906a6667ed4cfef3e46ec05869755018804c769d",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\泸州任氏族谱网站 (1).html",
+    "sha256": "d5c9ec31e97975001342e0b827e897ef8a25c26b6bf310c43656a42c2068aa20",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\其他\\石燕父亲.html",
+    "sha256": "a9daf13188959315f07a5d5a4b5a57226f9e27f37d0d1b925404607ac387dca8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\20260919_0157_数字保险箱\\数字保险箱.html",
+    "sha256": "033db9f3e93a5cf6dab2441f057ca33552d1502c01c66c6d421f1da9b9c38756",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [
+      "Unexpected token ')'"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\OPC_AI_虚拟软件公司_V4_商单修正版.html",
+    "sha256": "7338f142c80f11f6a2f9057012c575187ea527e5ba2e3d27468ef2a5e8c75737",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\admin.html",
+    "sha256": "87730f8217b5793c105b256ae3f98bf42ac0d2d6735135891b6199c4e2b499cb",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\auth.html",
+    "sha256": "1489af111fae7d7c94788411de5cb668a1fd4795f9d539fa3bb2c3afef29fd3e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\base.html",
+    "sha256": "4012a2df2f7a4cf5853f11bd97e182813362d1a9798cd2ce8ef758bae1c526c6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\huoxing.html",
+    "sha256": "c8d46b44a47a3607e62f470dc7d1b5dfe578e9b4933eaa038513e6b2efd965ab",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\icon_macro.html",
+    "sha256": "cc460cad18007af309f169be6cb1445b111bd7be0b0df91b782ad4f2eb112940",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\icon_sprite.html",
+    "sha256": "a03822d64fd1168a626da2763edefed91a0e995b57c1164b8d33c330ad9ea79e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\index.html",
+    "sha256": "390ec64074ad4f033f48d2e98151a5d5496ebe08a8ce25ea992a887afcdad2b5",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\tools.html",
+    "sha256": "af7d5098707f9c48cebab1696a2e05125e48b0baec36cb309afe8f1fa2e60352",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\数字生态家园\\templates\\wishes.html",
+    "sha256": "22c70adb82ed09f0bfefc496a53cce9b027f7df59bfac8027a0f6e9dcb9a09a2",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\理赔资料助手\\dist\\index.html",
+    "sha256": "8cfbb9ac7481eb7c1ca39aad54db8323283675cb65ecbcc7aac6b2f28a5a2959",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\ad.html",
+    "sha256": "c64de6609131e2f673d1f6a77d038b77c340742890fc90e47a0a951eaf6a818b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\admin.html",
+    "sha256": "71c4be49b7bd9f0207113d3528f1e2b8f63e907d654c54aca03568501a4f22dc",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\admin_categories.html",
+    "sha256": "7f3b72eba66501fb6b97fceac02511d176e36e161f9f7d57cfad3e5e688b25f9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\admin_feedback.html",
+    "sha256": "1309e0eda0dfd8d0e5da33e784e8a15910ce0805fad729eda2f3d4997c2f6625",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\admin_users.html",
+    "sha256": "d3e2648a3c295293ff58a5b1c7425d0a9cd97177e8465c03792614754b112ae6",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\author.html",
+    "sha256": "be314371c567cbab99d841cce518c8531f7e58bca34eef797f0472f06ad9c0e3",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\base.html",
+    "sha256": "c122f3b34c4fc19f0c5592da61292e71cb4adf5f5f3e61630c8fee9a42e661b2",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\bounty.html",
+    "sha256": "b4d857787ac3251418aa0a397a07bb3ecbf210a636ebdff18c1092b7cd93ceff",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\detail.html",
+    "sha256": "92e42cfc7ef4bf4da495985c7d1db1e469226c29d6758387f987251c190c6d50",
+    "inline_scripts": 3,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\error.html",
+    "sha256": "7b1946255436a29012d83907a3ac28a727928c543d0c537a9307337281e0764f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\index.html",
+    "sha256": "9b08e814de8963ea6dadcc1e77de952713166d3b3624fe6b6956ae8a738c13fc",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\login.html",
+    "sha256": "da02fbf893e964e50cc42a2a9f36b1f64d81ea86e93b489dfd6a147e842e7d38",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\my.html",
+    "sha256": "e056f1c85ea6650d63c74348a68802d8f0714a718e29e1d5a018211ce1c36135",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\register.html",
+    "sha256": "2e089720d2b96980e033b251819705f067e4bcea8dae92ae62fb8c789e9ca23c",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\search.html",
+    "sha256": "6f1d81d4e8c830745c7d9ff59a1ec9114ee7f3433166cb850945dbf0f3a3e8f4",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\upload.html",
+    "sha256": "eb6bd3290ed202c2e6465124ef84b9ab20b763b16dbb444556cfc4c88f5fa2be",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\version_detail.html",
+    "sha256": "439cb240600388d6142ceb667193fcb07dcd89ca2402f3c43c16d0e99827ed29",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\versions.html",
+    "sha256": "c3e649bded90a8b8242548bb8ffb49c6a415e84253bf8d0910fa50f6f9314572",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\Chat GPT6\\资料百事通\\templates\\vip.html",
+    "sha256": "c223d8569c0ee6229166a94ab785d795a99aafd8b6def9cd076f2797b6e8c90f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A18倒计时闹钟\\PY倒计时闹钟 【部署】\\index.html",
+    "sha256": "82e6e9729677e89b34a55e9104e5486ab43820ca45936f8033d7729564e9bd66",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\CD【部署】\\calendar_deploy\\index.html",
+    "sha256": "efc95bc27f23545013742b8ef3a25eb402739a0856da00b28e1e57bbc0f196df",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\CD【部署】\\calendar_mobile.html",
+    "sha256": "d98685f56931cd07cda344d7d9a1e195f8f282c8b4dffa76d00f4c0394720f9e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\CD【部署】\\calendar_web.html",
+    "sha256": "43016b5f1bca02df1e894b619da6d9998cb2836050343805cb9c2c2f4ddaa243",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\CD【部署】\\启动手机版日历.html",
+    "sha256": "addf75adc2f7467935930d5f4788f06b39ea67b870c3a6a158e96e0dd6c33473",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\CD【部署】\\启动网页版日历.html",
+    "sha256": "586b09834ef2dddc9902db6473b051d78fdd493762d6b45b4fdc9f10ca7db58f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A19日历程序\\经过CD后网页版用Tare\\1.html",
+    "sha256": "181a0b138e4e5f968f31a6d74d5239a750b2668b9317f29e254f2b7c210656a3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A22个人资料管理\\未命名.html",
+    "sha256": "2d88ff886d76aa23b7c34047bb47cbecc2d826942f20c946ecb17e5ac68c85c7",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A23模仿产品经理\\产品经理-CD\\index.html",
+    "sha256": "2a6cbf4a5c4f2f66ea477c120b59083cb3fdf689ba558751b1b67c807f8fbc78",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A23模仿产品经理\\产品经理-CD\\产品管理工作流程.html",
+    "sha256": "71515b5e09e0faa5c23087fe83ad9fdf140e7048fc6e3b8823f7ad0a216d2a28",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A23模仿产品经理\\开发流程\\product-development-simulation\\templates\\index.html",
+    "sha256": "451979adc24a2665de14856334e5b371e3bab4a6719731599d2f71f4e7fc907d",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A23模仿产品经理\\开发流程\\product-development-simulation\\templates\\product_conversation.html",
+    "sha256": "8bbbb4fa11b806cd57f8d4c4e7118f3abbab054052538cc2d8eca7e3e44b2d22",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A23模仿产品经理\\开发流程\\product-development-simulation\\templates\\style-guide.html",
+    "sha256": "7289a102808dbb8e5cd6c4cadeb52351391cb1fe03591daf5febe1d7454f9c7e",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [
+      "Invalid or unexpected token"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A24测试\\CD\\简化版程序.html",
+    "sha256": "9dc8d2b94c80bb45500c1a7735a0be89dec42658c35fe9470cd29d3d7cd6fbd3",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A24测试\\TRAE\\demo.html",
+    "sha256": "9e0006930543a7c65d5c1d91a6351bdf08eeb2b1a2ee44c3ffc31c2b2b695d02",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A24测试\\TRAE\\public\\index.html",
+    "sha256": "9ae80aff8863767c15ebe4d3bff23c37bc29c2e18f8900930e427bf87aa31afa",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A24测试\\TRAE\\test.html",
+    "sha256": "483e1e7f38ffaab3528d9925e82a61f70d56b2eebdc7be4955e8074602b98e70",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A25数字资产\\20251008114756\\001.html",
+    "sha256": "15e19951a5339f604cc399fa2530270a71225ed5f99b21c807457957e82fbeea",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A25数字资产\\CD\\index.html",
+    "sha256": "a8e33e5e163a58f5a1419b88472b212bf583302f84b1dd066a484b63a010f72a",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A25数字资产\\新建文件夹\\13.html",
+    "sha256": "e4ae64864c1cd3781da9af15765547a71de34d7e4349ae719f4e3443ec8f6713",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A25数字资产\\新建文件夹\\新建文件夹\\页面 13.html",
+    "sha256": "2acf9d4136205e2e271d2f157081ca6038fe9349dfdd2b6d2f369640c5d711cb",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A25数字资产\\蓝湖\\页面 13.html",
+    "sha256": "d32efe1cc8fa278f91345582f4f17e5617e7376c801c053ada3d8615a280ff51",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A28\\A1\\hunyuan_standalone_window.html",
+    "sha256": "5995852b55e6bdca8b2f85edb5ca614f3fa8dd53f8453e9300bab2e98f051c26",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A30四川省泸州市伤残事故网站\\Trae -原版本\\index.html",
+    "sha256": "b26afdad6dc098be726eb755b4b4f5b5a2672277e0d4b80f490fb0277f987700",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A30四川省泸州市伤残事故网站\\Trae\\index.html",
+    "sha256": "388e65d56e2547a38e884572f3cbaca6ee8eb94077838c27301dffa817a42e48",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A31我的工具集合\\toolbox-desktop\\index.html",
+    "sha256": "2861ace3fad38e5d0774b294add47fbad4a13b09b90c7942bc179cc29af73ac0",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A31我的工具集合\\toolbox-desktop\\simple-index.html",
+    "sha256": "3154a007b94724d12f20b1f69f323dbb8ac25f2c788844634e80fb658a4b587a",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A33小工具\\9f3dd1a3-baa2-41d5-8af3-ad0b6998933d\\home\\user\\.super_doubao\\super-doubao-runtime\\workspace\\fixed-tools-website.html",
+    "sha256": "9e61d607f1d4f052a18e4522a47fc75649d4f3df0bf3bf93e7bac25e59e79f5d",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A33小工具\\9f3dd1a3-baa2-41d5-8af3-ad0b6998933d\\home\\user\\.super_doubao\\super-doubao-runtime\\workspace\\simplified-tools-website.html",
+    "sha256": "c4ead1d803c23f0dfff2c5cd1e7b6d13909928cee7a081676b3f62d896263773",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A33小工具\\9f3dd1a3-baa2-41d5-8af3-ad0b6998933d\\home\\user\\.super_doubao\\super-doubao-runtime\\workspace\\test.html",
+    "sha256": "4c4d0cc5d6e1b040004112df104ac0bed704689589087bf98b598434b636bf4f",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A33小工具\\9f3dd1a3-baa2-41d5-8af3-ad0b6998933d\\home\\user\\.super_doubao\\super-doubao-runtime\\workspace\\tools-website.html",
+    "sha256": "1e10dc01e61c7824e441f5a4c3517fd72efddcdf769673e4ab30051115a546ba",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [
+      "Unexpected token ':'"
+    ],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A34外卖筛选4.5\\templates\\index.html",
+    "sha256": "0dbfe1589d90739c07cf24351ff8b843fbf65912fc2eec844d93e301e0a2c3ab",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A36音频转视频\\public\\index.html",
+    "sha256": "93ef4cf149d8f67c0a9b75086a82ae8ac60afcd8c7653240d2fe115af9c7c124",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A36音频转视频\\前端代码（完善版）.html",
+    "sha256": "3315348cdd0903936fbeb0c2a67f9974c173c42b44c2b74741b89e1fd5048991",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A40军哥·小工具集合\\index.html",
+    "sha256": "13ef42dc22bb9e8e0aa50a52a9bd6b9c78b0fff6e9fedbe971faa8e7b8570a26",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A40军哥·小工具集合\\test-all.html",
+    "sha256": "742dca87fa94eee67ce2acdebb5cc2371a8f276f572d7c9f58126c810f6594b5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A40军哥·小工具集合\\test-tool.html",
+    "sha256": "be1aea427c05c3332e9d5d9e83d42528afea9b116211b496085f02c14e0dcb57",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A41社区互助\\index.html",
+    "sha256": "38156894d40cd9d50b0da4bb33e1bc40db051ee00983d283c6fea3e279fd18c7",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A41社区互助\\preview.html",
+    "sha256": "05975f5ee4a5f83f3e93cfa74873757ec840deb6d9d6939e878aa4464c75d148",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A41社区互助\\templates\\index.html",
+    "sha256": "4199961dc1daef0ec104aca8cbb6ac44f21fb411b5916e1806a24ad98ef92919",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A42\\browser-version.html",
+    "sha256": "50514f292c726fca6cec0e8af6905372bb28478fe00cfdd42b05beb3f2f1f6a5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A42\\floating-ball.html",
+    "sha256": "bdb97e58d6992d1dbf6521fc12ade4ced1ba24819a79690e45ae66a2b575851e",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A42\\frontend\\index.html",
+    "sha256": "13e4984d99166ad17db2beef9a8cef3856d6cefadeb44d7a0049305f6bba58ea",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A42\\index.html",
+    "sha256": "8b9407ee1c3ade9e71b49d531fe8a49d6c0c39b625f7e7a7ce086d26c7b639f1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A42\\test-api.html",
+    "sha256": "86c1714af54ab9710f349eef0a491c6052e1b05a7a47f8b2105bcb05fc150407",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A44对指定框选区域实时的对该区域范围内识别到的英文自动翻译成中文，显示在上方，可设置透明度\\新建文件夹豆包\\未命名.html",
+    "sha256": "e2e39dca56de93dc2969d5eb614552968fbef4f0664558681ff5230be561eb9e",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\project-doc-search\\index.html",
+    "sha256": "18dd4677251eeabbab5eb242e4f21da7a77b4bd44dafbf958ab29004a6f293a3",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\project-doc-search\\stable-desktop-app\\src\\renderer\\index.html",
+    "sha256": "01f2d35b023b41b74d03ecf6e44760053089ef638fa0065dacf1c249d0895ee1",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\static\\api_documentation.html",
+    "sha256": "f3002618a887561e47447691a4f0c644ceed797f329deb8011f07dbcdbc446c7",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\base.html",
+    "sha256": "af92d84d85680a9f0ae43fb80a8d71023c62b68181c0a76a0a77a527a39bafc5",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\bills.html",
+    "sha256": "0ed7c4562be4ae99ee2c4024ea25fcb85fa547c577c5f454c7b86516f4de8db5",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\cards.html",
+    "sha256": "cfbf7c6e97a10063b0f1b502e4746ec1250ad87e09e887c1d50116e69b2e61f6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\dashboard.html",
+    "sha256": "82d21783a5ab1a02eb7ce00dad40bff5100b47cb6df2529fec5b1c7e5571ad91",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\error.html",
+    "sha256": "3b80b5b028b4dd742069351be9df6b3c7965277df26ec54836546d4bd0dd95a9",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\index.html",
+    "sha256": "da82c97e42e6889a0eb459bcd2f21c8c8da8da9e279a7e4bccef92fe692f8023",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\main.html",
+    "sha256": "31cd7f96a35414bc14556577a606f98a67a220597bd0029c2c7ea1b284b10f09",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\base.html",
+    "sha256": "2fb171b62e90c6dbabc67e0d74b0c9c4ccae990878a70f92d931f3c83509ac1a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\bills.html",
+    "sha256": "cf07a86bccfceba3f9bfc389c6f4595a6a1296b37d5328a07cef23c4b3e171c3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\index.html",
+    "sha256": "cef00727dc1232ece4ffa7f9a8669dd3d4fe37552e72682382f70f27cf32ec53",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\payments.html",
+    "sha256": "a69c78111de574c16f4d50ea14ed9cf46d422d10fc7e66decc84ea7cb990f4b3",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\recommendations.html",
+    "sha256": "4fed8f936c816ed92db1cdba0b6ec39f6be3691b7e807ef006ed8818d51f80c6",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile\\transactions.html",
+    "sha256": "7573c911087c0029f20672564665f94cf900feebe4b58e3f87dc9b7378fa7dd3",
+    "inline_scripts": 1,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 1
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile_base.html",
+    "sha256": "bd8f398d44bfa5ad0806464e82010afc7eb95d8b16738aae4e8ae830d88868f9",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile_cards.html",
+    "sha256": "989add9274df88b0bb7f570d40b2758616cc97858750fb88ad87c15c0dc14f50",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\mobile_dashboard.html",
+    "sha256": "b8c42dd837535f389b6e7de6353073026549c6ef23031b1980f4274461354010",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\payments.html",
+    "sha256": "819f186e5612c9f86a91d5f2759eebd38d6fb90599b181f68d32e0818bd4c14d",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\recommendations.html",
+    "sha256": "89caf4af7eb99a7c847eb51b0509b31192d8d9e170be100b6b60f987790afd80",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\tablet\\base.html",
+    "sha256": "f72d959e8dcc94a6821df028bec534e13ead9e7ffe518a4b1e5abde61d7dbb58",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\tablet\\index.html",
+    "sha256": "e7e54fb1a579d7f5d62ab6d2d4d9a69bcc7a1cd2041cb2f4da8d51649b6d6b2e",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\tablet_base.html",
+    "sha256": "3b3fcd6b2daf3fe23fc0e9cae8cbca6d43583b6eb2f741499ebd6c319a9e283c",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A45\\credit_card_system\\web\\templates\\transactions.html",
+    "sha256": "798c9785e55a5c3d3cffe56d395fad5b0e72bb8ee2fa568ad5c0884ce7156748",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A46\\lucky_draw_app\\index.html",
+    "sha256": "0eb742688f5f55c35994fc51ff2413acb431df3baab9116afe28e798f9e1ddac",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A47座位识别程序\\未命名.html",
+    "sha256": "e2a06054d08c07f15bfabf718e8b165646d16b4eaf20968a1ffd13cee1e45690",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A48客户管理\\index.html",
+    "sha256": "a258c5ae748435df08b6ce96a63838a4b464cb4f1912fc3abbc9c4fa62857a9f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A48客户管理\\index_simple.html",
+    "sha256": "e982aaffcbd353ff542a5b95c29ddb71b02fcd9b05d48769eab76a4d16deecf4",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A48客户管理\\index_static.html",
+    "sha256": "c6f495e2bcfa01d9eedc6e8596b9570d0abe1f970d92c4ac3eab20915b405b21",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a16\\credit-card-manager-frontend-updated\\web\\index.html",
+    "sha256": "10a95463cdb823b4183ff918d0f5d8a9e914a665c7418fc4fc616f67a29f1350",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [
+      "flutter_bootstrap.js"
+    ],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a16\\智卡管家\\index.html",
+    "sha256": "19fe1d6fd65906f97073f0a083173725a92c843f2f7be5d9e1fb9be4e3b59335",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a16\\智卡管家\\智卡管家演示.html",
+    "sha256": "2c2a71812e2411a9561846cbbeb3c015ed45cb793bf1392bb64b2ea1d51bd875",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a16\\智卡管家演示.html",
+    "sha256": "97b77dfa2cb55ab3af2a09a78e655751ff68a303632c531c577b57a5fac470e8",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a17\\二维码生成界面.html",
+    "sha256": "f1581902c2d98fc97299c576d3242296269f78539199ff60196d090365279210",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_11 - 导出通讯录提取名字电话EXCEL\\index.html",
+    "sha256": "9fe711ce81ead0ce278f0e7477937ce3ea632703b568337b9f678754138d4352",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_11\\index.html",
+    "sha256": "13ed37927f2efb48307e29b54ebb57f747ba94fdcf5975086e98593b2bd2b769",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_12\\AI新闻播报\\index.html",
+    "sha256": "39df93378bb02f624dee05835e54030917123224309d989b3c9501f88805ac66",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_12\\AI新闻播报\\修复版.html",
+    "sha256": "c916dc24cf58c8a705c182728205f0905ac8af2901951df737e6c9f15f887b28",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_13\\财务资产管理助手\\index.html",
+    "sha256": "6d8cf962501afcf44c837c1fb8a995fc7756bc37f82cd253c236508f5d5a9586",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_15-界面\\页面 12.html",
+    "sha256": "8b7db358fcdb81f3577adc882dd2828410180066b894ece3f8b62af07cc44503",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_1\\1、连接豆包API-OCR\\index.html",
+    "sha256": "11c4e9a0d0200d8fd734923cf6dcf1b03675ef43915b69a812e2233500f0b57b",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_1\\投保模板OCR识别\\index.html",
+    "sha256": "847aa2c9022842a18abd4709e5716536e73650c4027d9157b3b0f30bb74861f6",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_2\\index.html",
+    "sha256": "e656c769442476b6add7f49ebad23f077b2fc08425954956ba9e8809901d1a87",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [
+      "script.js"
+    ],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_3\\index.html",
+    "sha256": "504063f285f023c6002c0998927f5f787e64c9082753ca45cb066ed4d4b1aaec",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_3\\ocr-new.html",
+    "sha256": "8379a9c25e8c42b2f2fba22864c0e8bf1fc2e75afec9229b4b6be420f5b50719",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_3\\ocr.html",
+    "sha256": "155446ef7d722439ae03f559026714ce31cbc099c223701b33e7623c00e3756a",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_4\\ocr-assistant-app\\mobile\\index.html",
+    "sha256": "b3484c4af6913a2ac5dfa28fb4ccb8fbbe2d27cc73d39d5d60ac41fb2add79b2",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_4\\ocr-assistant-app\\src\\floating-ball.html",
+    "sha256": "bcc0581d68862c78bc0c67da36e1122744fef22bfdaba1fe76a22eb12c9f1ec1",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_4\\ocr-assistant-app\\src\\index.html",
+    "sha256": "dda24b9a88acd1b1ec1cbf386f165b94763a2e8a5f80ab3ec25e339795b88fc0",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_4\\ocr-assistant-app\\web\\index.html",
+    "sha256": "90a654a5b568321e82921ee57f7798a74f0340381d09b2fb307a8ba173a773f4",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_5\\excel_helper\\images\\splash_template.html",
+    "sha256": "2c05ad717b0ff1e06a6a2a3e2c42834c28f8c0b272e372778b671b3b46a7a7a6",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_7\\index.html",
+    "sha256": "9c7160f96afc92631ee55386319b95ccee125a63a00dbbf0f013261ad8c66c7f",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_9\\insurance-form\\index.html",
+    "sha256": "929f3c58a15e3eb7e55d946da8fb3a3df04bbe038d6ad1a5972c228de3470cc5",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_9\\insurance-form\\local-index.html",
+    "sha256": "5d6aa7f1c88471175372f8f6a8621bf2ae03528f353e689d88f62f779db35e29",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_9\\insurance-form\\simple.html",
+    "sha256": "c84d41284ce323242c1ce9913cf42d6b7b8f2a9e26388fbf7f79d4d644d3f1c3",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_9\\insurance-form\\static-index.html",
+    "sha256": "4580dbd818ea3eddf6910d91fb5a13df584ea7355a745d5dd3d4e2f66f66a69b",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\hunyuan-video-window\\floating_ball.html",
+    "sha256": "262a8589897173ef8569fba974aec6ca57646fa72b0f1178fbe50f031e6ab733",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\hunyuan-video-window\\index.html",
+    "sha256": "83f6e5637bf45e876de5fddcd2ee4bf58c4d723197c1b18b1cb51ca5bc778956",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\jilu_mobile\\web_viewer\\index.html",
+    "sha256": "733da3c0160c13ed7b9e1e811f305f7fa0f8dbd5d89e867482a69ddb9644c854",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\job-filtering-system\\admin-interface.html",
+    "sha256": "651d955729277c50f4f970aef72745686742fe1b598f022b5f3ab398b1e8a932",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\job-filtering-system\\user-interface.html",
+    "sha256": "478aa42049d29392eb1f318ee1c5e380a414d5abefdb08b5737a7d76e348d80d",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\quyudianji.01\\index.html",
+    "sha256": "6426a785bf9cfe6c3b6286e553315b028cca0fc672c832594ad11593de1d79e4",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\weixinkaifazhegongju\\智能生日助手-桌面版-新版\\index.html",
+    "sha256": "18c59230df84506519ddd0d4f202fcead1a63ed2f9b587892a513f5916b90c17",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\weixinkaifazhegongju\\智能生日助手-桌面版\\index.html",
+    "sha256": "82ee2fe4622e401926c3d71882ac1d47ddd69bc2cdbb88e0b48d48acb5c12087",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\yijianfuzhi\\table-copy-app\\index.html",
+    "sha256": "879d00a4daf31020c40546f10116bb10e70d41cf0232ed1e13f31c2d8f840e23",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\信用卡\\信用卡管理系统.html",
+    "sha256": "c7cbc1a646f4b4d74e9a77cce14e6722b002e0099ce0ae5344d20ab09c93a007",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\信用卡\\信用卡管理系统_AI版.html",
+    "sha256": "994022dbfa3b602d4042ea5e2d72aec13d51c2b0b74193dacf99e9079bf66a99",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\修复问题\\API密钥检测报告.html",
+    "sha256": "732557e88e3bae37277b52bf6272bf4f2dabb48d7db430b2e1cde3883ed66927",
+    "inline_scripts": 1,
+    "checked": 1,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\宠物货拉拉\\frontend\\admin-login.html",
+    "sha256": "6030651df3789c00ab220e9836a4f083a0daefcfdaf70ad2b135a54b13510c91",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\宠物货拉拉\\frontend\\admin.html",
+    "sha256": "ff945a2713d377893c7afe3be62979c099239570f9ddbfabeefe6d2562cb360b",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\宠物货拉拉\\frontend\\driver.html",
+    "sha256": "8bd12f21fedc1c5b26ebd88b0bfea84fd18a1f2708e159b907b9df98f600bd9b",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\宠物货拉拉\\frontend\\index.html",
+    "sha256": "325ac381ec8e0c507e9a93bbd63bf8e27d5025ff9a64382992a9c47cc991dc7b",
+    "inline_scripts": 2,
+    "checked": 2,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  },
+  {
+    "path": "E:\\智能生日助手-桌面版-新版\\智能生日助手-桌面版\\index.html",
+    "sha256": "197163c1221a5377963beb4d976e2c793ab4f8d02570c8644e80d748c9c42181",
+    "inline_scripts": 0,
+    "checked": 0,
+    "errors": [],
+    "missing_scripts": [],
+    "template_skipped": 0
+  }
+]

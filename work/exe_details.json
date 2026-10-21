@@ -1,0 +1,709 @@
+[
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\DbkeyHookCMD.exe",
+    "company": "DbkeyHookUI",
+    "product": "DbkeyHookUI",
+    "description": "DbkeyHookUI",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\dist\\WeChatExport\\WeChatExport.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\dist\\WeChatExport\\electron\\electron.exe",
+    "company": "GitHub, Inc.",
+    "product": "Electron",
+    "description": "Electron",
+    "version": "41.1.1"
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\WXexport\\wechat_v4_export_research\\research\\scripts\\decrypt.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-08-26\\new-chat\\wechat_analysis\\wx_key_v213\\wx_key.exe",
+    "company": "com.example",
+    "product": "wx_key",
+    "description": "wx_key",
+    "version": "2.1.2+1"
+  },
+  {
+    "path": "C:\\Users\\Administrator\\Doubao\\chats\\2026-09-21\\new-chat\\dist\\王榕桌宠.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026-8-9 191439\\豆包RPA工具\\build\\豆包RPA工具\\豆包RPA工具.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026-8-9 191439\\豆包RPA工具\\dist\\豆包RPA工具\\豆包RPA工具.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026年7月10日071529综合\\dist\\DuoMaJi_v8.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026年7月11日081627系统处理\\dist\\磁盘清理专家.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026年7月11日081627系统处理\\dist\\磁盘清理专家\\磁盘清理专家.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\2026年7月12日02534直播工具背景\\dist-electron\\win-unpacked\\直播伴侣背景工具.exe",
+    "company": "GitHub, Inc.",
+    "product": "直播伴侣背景工具",
+    "description": "直播伴侣背景工具",
+    "version": "1.0.0"
+  },
+  {
+    "path": "D:\\2026年7月12日02534直播工具背景\\release\\win-unpacked.tmp\\electron.exe",
+    "company": "GitHub, Inc.",
+    "product": "Electron",
+    "description": "Electron",
+    "version": "43.2.0"
+  },
+  {
+    "path": "D:\\2026年8月9日164826\\trainer_llm\\trainer_llm\\trainer_llm.exe",
+    "company": "trainer_llm",
+    "product": "trainer_llm",
+    "description": "Interactive teaching app for a CPU-trained mini-LLM",
+    "version": "0.1.0"
+  },
+  {
+    "path": "D:\\ai-tools\\installers\\python-3.12.9-amd64.exe",
+    "company": "Python Software Foundation",
+    "product": "Python 3.12.9 (64-bit)",
+    "description": "Python 3.12.9 (64-bit)",
+    "version": "3.12.9150.0"
+  },
+  {
+    "path": "D:\\ai-tools\\sdcpp\\sd-cli.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\ai-tools\\sdcpp\\sd-server.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\baoxianxiang\\desktop_app\\dist\\我的数字保险箱.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\parfait_crash_handler.exe",
+    "company": "",
+    "product": "",
+    "description": "",
+    "version": "1.5.6.4"
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\CameraDetector.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\mirror\\arch32\\new\\usbmuxd.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\mirror\\arch64\\new\\usbmuxd.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\resources\\app\\app.content\\processinfo.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\tt_crash_reporter.exe",
+    "company": "ByteDance Inc",
+    "product": "Electron",
+    "description": "tt_crash_reporter",
+    "version": "1.0.0.1"
+  },
+  {
+    "path": "D:\\webcast_mate\\13.0.3.493585293\\直播伴侣.exe",
+    "company": "ByteDance Inc",
+    "product": "直播伴侣",
+    "description": "直播伴侣",
+    "version": "13.0.3"
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\parfait_crash_handler.exe",
+    "company": "",
+    "product": "",
+    "description": "",
+    "version": "1.5.6.4"
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\CameraDetector.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\mirror\\arch32\\new\\usbmuxd.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\mirror\\arch64\\new\\usbmuxd.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\resources\\app\\app.content\\processinfo.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\tt_crash_reporter.exe",
+    "company": "ByteDance Inc",
+    "product": "Electron",
+    "description": "tt_crash_reporter",
+    "version": "1.0.0.1"
+  },
+  {
+    "path": "D:\\webcast_mate\\13.1.1.502547155\\直播伴侣.exe",
+    "company": "ByteDance Inc",
+    "product": "直播伴侣",
+    "description": "直播伴侣",
+    "version": "13.1.1"
+  },
+  {
+    "path": "D:\\webcast_mate\\直播伴侣 Launcher.exe",
+    "company": "ByteDance Inc",
+    "product": "直播伴侣",
+    "description": "直播伴侣 Launcher",
+    "version": "13.0.3"
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本 - 副本\\dist\\分身旁观.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本 - 副本\\dist\\分身旁观\\speech_recognition\\flac-win32.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本 - 副本\\dist\\分身旁观\\分身旁观.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本\\dist\\分身旁观.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本\\dist\\分身旁观\\speech_recognition\\flac-win32.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统 - 副本\\dist\\分身旁观\\分身旁观.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\分身旁观-语料系统\\dist\\分身旁观-语料系统\\分身旁观-语料系统.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "D:\\新建文件夹\\批量重命名工具\\dist\\批量重命名工具.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\000001\\dist\\足球悬浮记事本.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\020202\\Git-2.50.1-64-bit.exe",
+    "company": "The Git Development Community                               ",
+    "product": "Git                                                         ",
+    "description": "Git Setup                                                   ",
+    "version": "2.50.1.1            "
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\dotenv.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\f2py.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\pip.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\pylupdate5.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\pyqt5-tools.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\pyrcc5.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\pyuic5.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\2025年6月26日232514\\quyudianji\\venv_new\\Scripts\\qt5-tools.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\DBServer\\DBServer.exe",
+    "company": "游蚊",
+    "product": "",
+    "description": "SQL数据库服务器",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\DBServer\\新建文件夹\\DBServer.exe",
+    "company": "??",
+    "product": "",
+    "description": "SQL??????",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\GameCenter.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\LogServer\\LogDataServer.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\LogServer\\日志查询工具MirLog.exe",
+    "company": "",
+    "product": "",
+    "description": "",
+    "version": ""
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\LoginGate\\LoginGate.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\LoginSrv\\LoginSrv.exe",
+    "company": "游蚊",
+    "product": "",
+    "description": "游戏登录服务器",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\Mir200\\Envir\\MonItems\\传奇暴率调整工具.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\Mir200\\Envir\\MonItems\\无忧暴率调整.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\Mir200\\M2Server.exe",
+    "company": "M2Server",
+    "product": "小水",
+    "description": "游蚊SQL版",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\Mir200\\Txt文件快速浏览器 V1.0.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\RunGate\\RunGate.exe",
+    "company": "游蚊",
+    "product": "",
+    "description": "传奇网关",
+    "version": "1.0.0.0"
+  },
+  {
+    "path": "E:\\AI收集信息库\\legend_server\\MirServer\\SelGate\\SelGate.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\Chat GPT6\\01_项目\\我的数字保险箱\\05_交付\\V2.9\\我的数字保险箱_电脑端V2.9.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\Chat GPT6\\AI_Live_Assistant_V01\\build\\AI_Live_Assistant_V01.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2\\OPC.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2\\OPC_new.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2\\build\\Chat GPT6OPC_V2.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2\\build\\Chat GPT6OPC_V2.exe.before116.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2\\build\\Chat GPT6OPC_V2.exe.before_bridgefix_153.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_BASELINE_123_141\\OPC.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_BASELINE_123_141\\OPC_new.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_BASELINE_123_141\\build\\Chat GPT6OPC_V2.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_BASELINE_123_141\\build\\Chat GPT6OPC_V2.exe.before116.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_DEV_141\\OPC.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_DEV_141\\OPC_new.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_DEV_141\\build\\Chat GPT6OPC_V2.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_DEV_141\\build\\Chat GPT6OPC_V2.exe.before116.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Chat GPT6OPC_V2_DEV_141\\build\\Chat GPT6OPC_V2_DEV_141.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\OPC_V2_REAL_TEST\\OPC测试计算器\\build\\OPC测试计算器.exe",
+    "company": "",
+    "product": "",
+    "description": " ",
+    "version": "0.0.0.0"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\ToDesk_Lite.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\WeGameMiniLoader.CF.7.1.27.1153.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\adb工具包_od510837_bu6nmeud (1).exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\adb工具包_od510837_bu6nmeud.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\douyin-downloader-v8.2.0-win32-ia32-douyinDownload1-wid-98m8HtKn7jA.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\pd6p-win-g1010-1_03-ea34_2.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\Organized Downloads\\程序\\win-g1010-1_4-n_mcd.exe",
+    "company": "Synaptics",
+    "product": "Synaptics Pointing Device Driver",
+    "description": "Synaptics Pointing Device Driver",
+    "version": "1.0.0.4"
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\GPT_Work_Router.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\GPT_Work_Router_v1.0\\GPT_Work_Router_v1.0\\GPT_Work_Router.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\GPT_Work_Router_v1.1.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\Chat GPT6\\主动保存\\GPT_Work_Router_v1.1\\GPT_Work_Router_v1.1.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A38做一个一键打开本机摄像头的悬浮球PY程序\\build\\stealth_monitor\\隐形监控.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A38做一个一键打开本机摄像头的悬浮球PY程序\\dist\\隐形监控 - 副本 (2)\\隐形监控.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A38做一个一键打开本机摄像头的悬浮球PY程序\\dist\\隐形监控 - 副本\\隐形监控.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\A38做一个一键打开本机摄像头的悬浮球PY程序\\dist\\隐形监控\\隐形监控.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\a_a_A_lot_of_AI_computer\\a_ai_computer_5\\excel_helper_env\\Scripts\\pip.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  },
+  {
+    "path": "E:\\quyudianji.01\\release\\屏幕监控工具\\Screen Monitor 1.0.0.exe",
+    "company": "Screen Monitor Team",
+    "product": "Screen Monitor",
+    "description": "Screen monitoring and auto-click tool",
+    "version": "1.0.0"
+  },
+  {
+    "path": "E:\\quyudianji.01\\release\\屏幕监控工具\\win-unpacked\\屏幕监控工具.exe",
+    "company": "Screen Monitor Team",
+    "product": "屏幕监控工具",
+    "description": "屏幕监控工具",
+    "version": "1.0.0"
+  },
+  {
+    "path": "E:\\quyudianji.01\\release\\屏幕监控工具\\屏幕监控工具 1.0.0.exe",
+    "company": "Screen Monitor Team",
+    "product": "屏幕监控工具",
+    "description": "Screen monitoring and auto-click tool",
+    "version": "1.0.0"
+  },
+  {
+    "path": "E:\\信用卡\\2026年6月8日225642\\桌面应用版本\\窗口识别自动化工具.exe",
+    "company": null,
+    "product": null,
+    "description": null,
+    "version": null
+  }
+]
