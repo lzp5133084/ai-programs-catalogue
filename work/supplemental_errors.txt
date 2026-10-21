@@ -1,2 +1,0 @@
-rg: E:\Chat GPT6\20260919_163427_OPC-AI_Commander\data\OPC_AE_vlly3c_l: 拒绝访问。 (os error 5)
-rg: E:\a_a_A_lot_of_AI_computer\A45\credit_card_system\.pytest_cache: 拒绝访问。 (os error 5)

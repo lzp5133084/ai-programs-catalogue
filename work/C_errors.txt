@@ -1,2 +1,0 @@
-rg: C:\System Volume Information: 拒绝访问。 (os error 5)
-rg: C:\Users\Administrator: 拒绝访问。 (os error 5)
